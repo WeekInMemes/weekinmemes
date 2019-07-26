@@ -1,0 +1,10 @@
+{{ define "main" }}
+  <article class="single">
+    <section id="content" class="body">
+        {{ .Content }}
+    </section> 
+  </article>
+{{ partial "fb-like.html" . }}
+{{ partial "sharing-buttons.html" . }}
+{{ end }}
+

@@ -1,0 +1,41 @@
+{{ if .Site.Params.twitter }}
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:site" content="@{{ .Site.Params.twitter }}">
+<meta name="twitter:creator" content="@{{ .Site.Params.twitter }}">
+{{ end }}
+
+
+{{ if .Site.Params.opengraphImage}}
+<meta name="twitter:image" content="{{ if .Params.featuredImage }}{{ .Params.featuredImage | absURL }}{{ else }}{{ .Site.Params.opengraphImage | absURL }}{{ end }}">
+<meta property="og:image" content="{{ if .Params.featuredImage }}{{ .Params.featuredImage | absURL }}{{ else }}{{ .Site.Params.opengraphImage | absURL }}{{ end }}">
+<meta itemprop="image" content="{{ if .Params.featuredImage }}{{ .Params.featuredImage | absURL }}{{ else }}{{ .Site.Params.opengraphImage | absURL }}{{ end }}">
+{{ end }}
+
+<meta property="og:title" content="{{ if .IsHome }}{{ .Site.Title }}{{ else if .Params.heading }}{{ .Params.heading }}{{ else }}{{ .Title }}{{ end }}">
+<meta property="og:type" content="website">
+<meta property="og:url" content="{{ .Permalink }}">
+
+
+{{ if .Summary }}
+<meta name="twitter:description" content="{{ .Summary }}">
+<meta property="og:description" content="{{ .Summary }}">
+<meta itemprop="description" content="{{ .Summary }}">
+<meta name="description" content="{{ .Summary }}">
+{{ else if eq .Section "tags" }}
+<meta name="twitter:description" content="{{ .Title }} memes">
+<meta property="og:description" content="{{ .Title }} memes">
+<meta itemprop="description" content="{{ .Title }} memes">
+<meta name="description" content="{{ .Title }} memes">
+{{ else }}
+<meta name="twitter:description" content="{{ .Site.Params.description }}">
+<meta property="og:description" content="{{ .Site.Params.description }}">
+<meta itemprop="description" content="{{ .Site.Params.description }}">
+<meta name="description" content="{{ .Site.Params.description }}">
+{{ end }}
+
+
+{{ if .Params.tags }}
+<meta name="keywords" content="{{range .Params.tags}}{{ . }}, {{end}}memes">
+{{end}}
+
+<link rel="canonical" href="{{ .Permalink }}">

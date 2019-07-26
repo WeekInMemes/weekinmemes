@@ -1,0 +1,9 @@
+{{ define "main" }}
+<h1>{{ .Title }}</h1>
+	{{ partial "post-list.html"  . }}
+	{{ partial "pagination.html" . }}
+{{ end }}
+
+{{ define "widgets" }}
+	{{ partial "widgets.html" . }}
+{{ end }}

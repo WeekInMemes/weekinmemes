@@ -1,0 +1,25 @@
+<article class="list">
+  <a href='{{ .Permalink }}'><h2 class="title">{{ .LinkTitle }}</h2></a>
+  <span class="tags">
+  {{ if .Params.showthedate }}
+  {{ .Date.Format "January 2, 2006" }}
+  {{ end }} 
+  {{ if .Params.tags }}
+     Posted under
+     {{range .Params.tags}}
+        <a href="{{ "/tags/" | relLangURL }}{{ . | urlize }}">{{ . }}</a>
+     {{end}}
+  {{end}}
+  </span>
+  {{ if .Params.featuredImage  }}
+  <a href='{{ .Permalink }}'><img class="image" src="{{ .Params.featuredimage }}" ></a>
+  {{ end }}
+  <span class="intro">{{ .Summary | markdownify }}</span>
+  <a href='{{ .Permalink }}' class="read-more">
+      {{ if .Site.Params.readMore }} 
+          {{ .Site.Params.readMore }}
+      {{ else }}
+          Read More
+      {{ end }}
+  </a>
+</article>

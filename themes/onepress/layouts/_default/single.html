@@ -1,0 +1,41 @@
+{{ define "main" }}
+  <article class="single">
+    <h1>{{ .Title }}</h1>
+    <section class="extras">
+        <span class="tags">
+          {{ if .Params.showthedate }}
+          <small class="time">{{ .Date.Format "January 2, 2006" }}</small>
+          {{end}}
+          {{ if .Params.tags }}
+             Posted under 
+             {{range .Params.tags}}
+                <a href="{{ "/tags/" | relLangURL }}{{ . | urlize }}">{{ . }}</a>
+             {{end}}
+          {{end}}
+        </span>
+    </section>
+    <section class="description">
+      {{ .Description }}
+    </section>
+    
+    <section id="content" class="body">
+        {{ .Content }}
+    </section> 
+    
+    <!-- You can add a call to action here -->
+     
+  </article>
+  {{ if or (eq .Section "posts") (eq .Section "memes") }}
+    {{ partial "fb-like.html" . }}
+    {{ partial "paid-support.html" . }}
+    {{ partial "sharing-buttons.html" . }}
+    {{ partial "author.html" . }}
+    {{ partial "disqus.html" . }}
+    {{ partial "related.html" . }}
+  {{ end }}
+{{ end }}
+
+{{ define "widgets" }}
+	{{ partial "widgets.html" . }}
+{{ end }}
+

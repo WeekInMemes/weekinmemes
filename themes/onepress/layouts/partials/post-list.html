@@ -1,0 +1,10 @@
+{{ if .IsHome }}
+{{ range where .Paginator.Pages "Type" "posts" }}
+  {{ partial "post-card.html" . }}
+{{ end }}
+
+{{ else }}
+{{ range where .Paginator.Pages "Params.hidden" "ne" "true" }} 
+  {{ partial "post-card.html" . }}
+{{ end }}
+{{ end }}

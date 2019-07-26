@@ -1,0 +1,19 @@
+{{ if .HasShortcode "gallery" }}
+<script src="https://code.jquery.com/jquery-1.12.4.min.js" integrity="sha256-ZosEbRLbNQzLpnKIkEdrPv7lOy9C27hHQ+Xp8a4MxAQ=" crossorigin="anonymous"></script>
+<script src="/js/load-photoswipe.js"></script>
+<script src='https://cdnjs.cloudflare.com/ajax/libs/photoswipe/4.1.2/photoswipe.min.js'/></script>
+<script src='https://cdnjs.cloudflare.com/ajax/libs/photoswipe/4.1.2/photoswipe-ui-default.min.js'/></script>
+{{ else }}
+<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+{{ end }}
+<script src="/js/highlight.js"></script>
+<script src="/js/mailerlite.js"></script>
+<script>hljs.initHighlightingOnLoad();</script>
+<div id="fb-root"></div>
+<script async defer crossorigin="anonymous" src="https://connect.facebook.net/en_GB/sdk.js#xfbml=1&version=v3.2"></script>
+
+{{ range .Site.Params.customJS }}
+<script src="{{ . | absURL }}"></script>
+{{ end }}
+
+{{ template "_internal/google_analytics.html" . }}

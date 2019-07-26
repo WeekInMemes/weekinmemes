@@ -1,0 +1,15 @@
+<article class="related-card">
+  <a href='{{ .Permalink }}'>
+    <h3 class="title">{{ .LinkTitle }}</h3>
+  {{ if .Params.featuredImage  }}
+      <img src = "{{ .Params.featuredimage }}">
+    </a>
+  {{ end }}
+  <a href='{{ .Permalink }}' class="read-more">
+      {{ if .Site.Params.readMore }} 
+          {{.Site.Params.readMore}}
+      {{ else }}
+          Read More
+      {{ end }}
+  </a>
+</article>

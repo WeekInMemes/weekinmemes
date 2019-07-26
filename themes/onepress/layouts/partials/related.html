@@ -1,0 +1,10 @@
+
+{{ $related := .Site.RegularPages.Related . | first 3 }}
+{{ with $related }}
+<p class="see-also">See Also</p>
+<div class  = "related">
+	{{ range . }}
+		{{ partial "related-post-card.html" . }}
+	{{ end }}
+</div>
+{{ end }}
