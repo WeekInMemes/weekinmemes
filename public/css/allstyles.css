@@ -265,6 +265,22 @@ aside .widgets:after {
   background-image: url("/img/logo/2.jpg");
   background-position: center;
   background-repeat: no-repeat;
+  display: flex;
+  justify-content: space-around;
+  flex-direction: column;
+}
+
+.read-first {
+  text-align: center;
+  position: relative;
+  bottom: 0vh;
+}
+
+.read-first h2 a {
+  color: #000000;
+  font-size: 1.3em;
+  font-weight: bold;
+  border-bottom: 1px solid black;
 }
 
 /* ------ MAIN ----- */
@@ -974,10 +990,10 @@ transform: rotate(360deg);
   box-sizing: border-box;
   margin: auto;
   position: relative;
-  top: 10vh;
+  top: 1vh;
   width: 100% !important;
 }
-#mlb2-1253700.ml-form-embedContainer h4,
+#mlb2-1253700.ml-form-embedContainer h1,
 #mlb2-1253700.ml-form-embedContainer p,
 #mlb2-1253700.ml-form-embedContainer span,
 #mlb2-1253700.ml-form-embedContainer button {
@@ -1035,7 +1051,7 @@ transform: rotate(360deg);
 }
 #mlb2-1253700.ml-form-embedContainer .ml-form-embedWrapper .ml-form-embedBody .ml-form-embedContent p,
 #mlb2-1253700.ml-form-embedContainer .ml-form-embedWrapper .ml-form-successBody .ml-form-successContent p {
-  color: #ffffff;
+  color: #000000;
   font-family: 'Open Sans', Arial, Helvetica, sans-serif;
 	font-weight: 500;
   font-size: 24px;

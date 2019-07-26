@@ -4,17 +4,27 @@
     {{ partial "head.html" . }}
     </head>
 <body>
-	{{ if ne .Section "subscribe" }}
-      <header class="header">
-			{{ partial "brand.html" . }}
-		</header>
+	{{ if and (not .IsHome) (ne .Section "subscribe") }}
+    <header class="header">
+		{{ partial "brand.html" . }}
+	</header>
     <nav class="main-nav">
         {{ partial "nav.html" . }}
     </nav>
     {{ end }}
     <!-- show sidebar if widgets param is set to true -->
 
-    {{ if and (.Site.Params.widgets) (ne .Section "subscribe") }}
+    {{ if .IsHome }}
+    <div id="site-wrapper-centered" class = "subscribe-page">
+    <nav class="main-nav">
+        {{ partial "nav.html" . }}
+    </nav>
+    
+        {{ partial "mailerlite.html" . }}
+        <div class = "read-first" id = "read-first">
+            <h2><a href = "#site-wrapper">Read First</a></h2>
+        </div>
+    </div>
     <div id="site-wrapper">
         <main>
             {{ block "main" . }} {{ end }}
@@ -25,21 +35,33 @@
             {{ partial "footer.html" . }}
         </aside>
     </div>
-    {{ else if eq .Section "subscribe" }}
-    <div id="site-wrapper-centered" class = "subscribe-page">
-        <main class="center">
-            {{ block "main" . }} {{ end }}
-        </main>
-    {{ partial "footer.html" . }}
-    </div>
-    {{ else }}
+
     <!-- no sidebar, content centered to screen -->
+    {{ else if or (or (eq .Section "support") ( eq .Section "about" )) (eq .Section "subscribe") }}
+    
+    {{  if eq .Section "subscribe" }}
+    <div id="site-wrapper-centered" class = "subscribe-page">
+    {{ else }}
     <div id="site-wrapper-centered">
+    {{ end }}
         <main class="center">
             {{ block "main" . }} {{ end }}
         </main>
         {{ partial "footer.html" . }}
     </div>
+
+    {{ else }}
+    <div id="site-wrapper">
+        <main>
+            {{ block "main" . }} {{ end }}
+        </main>
+        <!-- show widget on larger screen -->
+        <aside class="desktop-only">
+            {{ block "widgets" . }}{{ end }}
+            {{ partial "footer.html" . }}
+        </aside>
+    </div>
+   
     {{ end }}
 {{ partial "js.html" . }}
 </body>
