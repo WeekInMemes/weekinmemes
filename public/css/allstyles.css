@@ -1023,8 +1023,8 @@ transform: rotate(360deg);
 #mlb2-1253700.ml-form-embedContainer .ml-form-embedWrapper .ml-form-successBody .ml-form-successContent {
   margin: 0 0 20px 0;
 }
-#mlb2-1253700.ml-form-embedContainer .ml-form-embedWrapper .ml-form-embedBody .ml-form-embedContent h4,
-#mlb2-1253700.ml-form-embedContainer .ml-form-embedWrapper .ml-form-successBody .ml-form-successContent h4 {
+#mlb2-1253700.ml-form-embedContainer .ml-form-embedWrapper .ml-form-embedBody .ml-form-embedContent h1,
+#mlb2-1253700.ml-form-embedContainer .ml-form-embedWrapper .ml-form-successBody .ml-form-successContent h1 {
   color: #000000;
   font-family: 'Open Sans', Arial, Helvetica, sans-serif;
   font-size: 36px;
