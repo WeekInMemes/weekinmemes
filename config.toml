@@ -1,0 +1,30 @@
+baseURL = "https://weekinmemes.com"
+languageCode = "en-us"
+title = "Week In Memes - What's Going Viral in India?"
+
+theme = "onepress"
+googleAnalytics = "UA-132703841-1"
+disqusShortname = "weekinmemes"
+enableEmoji = true
+enableRobotsTXT = true
+
+
+[params]
+header = "Week In Memes"
+shareButton = true
+description = "A blog to keep track of memes, videos, GIFs that are going viral in India and why."
+widgets = true
+twitter = "WeekInMemes"
+facebook = "weekinmemes"
+instagram = "weekinmemes"
+youtube = "UCnv6AphNCvg9j2FpwuBubiQ"
+pinterest = "weekinmemes"
+opengraphImage = "img/logo/6.jpg"
+logo = "img/logo-50.jpg"
+email = "dk@weekinmemes.com"
+subscribeLink = "subscribe"
+enableRSS = true
+
+[taxonomies]
+tag = "tags"
+

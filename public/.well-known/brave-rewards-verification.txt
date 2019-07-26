@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: weekinmemes.com
+Token: 1eae6e5e82e42ec12319074e11245534577f7221542647123e749396df7949e9

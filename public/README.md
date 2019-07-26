@@ -1,0 +1,1 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/f51a6e3c-2ef5-4a71-b17e-3b0bade2c037/deploy-status)](https://app.netlify.com/sites/weekinmemes/deploys)
