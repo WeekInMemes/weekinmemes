@@ -7,7 +7,7 @@ googleAnalytics = "UA-132703841-1"
 disqusShortname = "weekinmemes"
 enableEmoji = true
 enableRobotsTXT = true
-paginate = 15
+paginate = 5
 
 [params]
 header = "Week In Memes"
