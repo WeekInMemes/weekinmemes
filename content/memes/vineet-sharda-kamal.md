@@ -20,7 +20,7 @@ Twitter user [@Benarasiyaa](https://twitter.com/Benarasiyaa) shared the clip whi
 
 A twitter user [@Fekoslovakian](https://twitter.com/Fekoslovakian/) matched the audio to Hitler's speech.
 
-{{< tweet 1113046475909541888 >}}
+{{< youtube gWOpiQqatc8 >}}
 
 Rap version
 

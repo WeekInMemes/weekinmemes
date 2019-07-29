@@ -245,35 +245,30 @@ aside .widgets:after {
 
 #site-wrapper {
 	max-width: 768px;
-	margin: 0 auto;
-	margin-top: 0px;
-        padding: 60px 30px 0px;
+	margin: 0px auto;
+  padding: 60px 30px 0px;
 	overflow-wrap: break-word;
 }
 #site-wrapper-centered {
 	max-width: 768px;
 	margin: 0 auto;
-	margin-top: 0px;
-        padding: 60px 30px 0px;
+  padding: 60px 30px 0px;
 	overflow-wrap: break-word;
 }
 
 #site-wrapper-centered.subscribe-page {
   max-width: 100vw;
-  height: 100vh;
-  background-color: #CDAF6E; 
-  background-image: url("/img/logo/2.jpg");
+  min-height: 100vh;
+  background-color: #DAD7C6; 
   background-position: center;
   background-repeat: no-repeat;
   display: flex;
-  justify-content: space-around;
   flex-direction: column;
+  justify-content: space-around;
 }
 
 .read-first {
   text-align: center;
-  position: relative;
-  bottom: 0vh;
 }
 
 .read-first h2 a {
@@ -625,7 +620,7 @@ footer {
     #site-wrapper {
         max-width: 1140px;
         display: flex;
-        justify-content: space-between;
+        justify-content: center;
     } 
     
     main {
@@ -1012,6 +1007,9 @@ transform: rotate(360deg);
   padding: 0;
   position: relative;
         }
+
+
+
 #mlb2-1253700.ml-form-embedContainer .ml-form-embedWrapper.embedPopup,
 #mlb2-1253700.ml-form-embedContainer .ml-form-embedWrapper.embedDefault { width: 500px; }
 #mlb2-1253700.ml-form-embedContainer .ml-form-embedWrapper.embedForm { max-width: 500px; width: 100%; }
@@ -1019,6 +1017,20 @@ transform: rotate(360deg);
 #mlb2-1253700.ml-form-embedContainer .ml-form-align-center { text-align: center; }
 #mlb2-1253700.ml-form-embedContainer .ml-form-align-default { display: table-cell !important; vertical-align: middle !important; text-align: center !important; }
 #mlb2-1253700.ml-form-embedContainer .ml-form-align-right { text-align: right; }
+
+#mlb2-1253700.ml-form-embedContainer .ml-form-flex {
+  max-width:  768px;
+  margin: 0px auto;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  flex-wrap: wrap;
+}
+
+#mlb2-1253700.ml-form-embedContainer .ml-form-flex img {
+  max-width: 250px;
+}
+
 #mlb2-1253700.ml-form-embedContainer .ml-form-embedWrapper .ml-form-embedHeader img {
   border-top-left-radius: 4px;
   border-top-right-radius: 4px;
@@ -1042,7 +1054,7 @@ transform: rotate(360deg);
 #mlb2-1253700.ml-form-embedContainer .ml-form-embedWrapper .ml-form-embedBody .ml-form-embedContent h1,
 #mlb2-1253700.ml-form-embedContainer .ml-form-embedWrapper .ml-form-successBody .ml-form-successContent h1 {
   color: #000000;
-  font-family: 'Open Sans', Arial, Helvetica, sans-serif;
+  font-family: 'Source Sans Pro', sans-serif;
   font-size: 36px;
   font-weight: bold;
   margin: 0 0 10px 0;
@@ -1052,7 +1064,7 @@ transform: rotate(360deg);
 #mlb2-1253700.ml-form-embedContainer .ml-form-embedWrapper .ml-form-embedBody .ml-form-embedContent p,
 #mlb2-1253700.ml-form-embedContainer .ml-form-embedWrapper .ml-form-successBody .ml-form-successContent p {
   color: #000000;
-  font-family: 'Open Sans', Arial, Helvetica, sans-serif;
+  font-family: 'Source Sans Pro', sans-serif;
 	font-weight: 500;
   font-size: 24px;
 	line-height: 24px;
@@ -1064,7 +1076,7 @@ transform: rotate(360deg);
 #mlb2-1253700.ml-form-embedContainer .ml-form-embedWrapper .ml-form-successBody .ml-form-successContent ul,
 #mlb2-1253700.ml-form-embedContainer .ml-form-embedWrapper .ml-form-successBody .ml-form-successContent ol {
   color: #000000;
-  font-family: 'Open Sans', Arial, Helvetica, sans-serif;
+  font-family: 'Source Sans Pro', sans-serif;
 	font-size: 14px;
 }
 #mlb2-1253700.ml-form-embedContainer .ml-form-embedWrapper .ml-form-embedBody .ml-form-embedContent p a,
@@ -1159,7 +1171,7 @@ transform: rotate(360deg);
   border-radius: 4px;
   box-shadow: none;
   color: #ffffff !important;
-  font-family: 'Open Sans', Arial, Helvetica, sans-serif;
+  font-family: 'Source Sans Pro', sans-serif;
   font-size: 14px !important;
   font-weight: 700;
   line-height: 20px;
@@ -1189,7 +1201,7 @@ transform: rotate(360deg);
 #mlb2-1253700.ml-form-embedContainer .ml-form-embedWrapper .ml-form-embedBody .ml-form-checkboxRow .label-description {
   color: #000000;
   display: block;
-  font-family: 'Open Sans', Arial, Helvetica, sans-serif;
+  font-family: 'Source Sans Pro', sans-serif;
   font-size: 12px;
   text-align: left;
   padding-left: 25px;
@@ -1205,7 +1217,7 @@ transform: rotate(360deg);
 }
 #mlb2-1253700.ml-form-embedContainer .ml-form-embedWrapper .ml-form-embedBody .ml-form-checkboxRow label p {
   color: #000000 !important;
-  font-family: 'Open Sans', Arial, Helvetica, sans-serif !important;
+  font-family: 'Source Sans Pro', sans-serif;
   font-size: 12px !important;
   font-weight: normal !important;
   line-height: 18px !important;
@@ -1224,7 +1236,7 @@ transform: rotate(360deg);
   border-radius: 4px !important;
   box-shadow: none !important;
   color: #ffffff !important;
-  font-family: 'Open Sans', Arial, Helvetica, sans-serif !important;
+  font-family: 'Source Sans Pro', sans-serif;
   font-size: 14px !important;
   font-weight: 700 !important;
   line-height: 20px !important;

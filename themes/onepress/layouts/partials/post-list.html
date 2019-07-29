@@ -1,8 +1,9 @@
 {{ if .IsHome }}
-{{ $paginator := .Paginate (where .Pages "Type" "posts") }}
-{{ else }}
-{{ $paginator := .Paginate (where .Pages "Params.hidden" "ne" "true") }}
-{{ end }}
-{{ range .Paginator.Pages }}
+{{ range where .Paginator.Pages "Type" "posts" }}
 {{ partial "post-card.html" . }}
+{{ end }}
+{{ else }}
+{{ range where .Paginator.Pages "Params.hidden" "ne" "true" }}
+{{ partial "post-card.html" . }}
+{{ end }}
 {{ end }}
