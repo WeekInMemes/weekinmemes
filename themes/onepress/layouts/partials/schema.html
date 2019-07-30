@@ -1,0 +1,39 @@
+<script type="application/ld+json">
+{{ if or (eq .Section "posts") (eq .Section "memes") }}
+{
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  "headline": {{ .Title }},
+  "image": {{ .Params.featuredImage | absURL }},
+  "datePublished": {{ .PublishDate }},
+  "dateModified": {{ .Lastmod }},
+  "author": {
+    "@type": "Person",
+    "name": "DK"
+  },
+   "publisher": {
+    "@type": "Organization",
+    "name": "Week In Memes",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://weekinmemes.com/img/logo.jpg"
+    }
+  },
+  "description": {{ .Summary | plainify | safeHTML }},
+  "keywords": [{{range .Params.tags}}"{{ . }}", {{ end }}"memes"]
+}
+{{ end }}
+
+{
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  "name": "Week In Memes",
+  "url": "http://weekinmemes.com",
+  "sameAs": [
+    "http://www.facebook.com/weekinmemes",
+    "http://instagram.com/weekinmemes",
+    "http://twitter.com/weekinmemes",
+    "http://pinterest.com/weekinmemes"
+  ]
+}
+</script>
