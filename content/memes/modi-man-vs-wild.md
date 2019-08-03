@@ -1,5 +1,5 @@
 +++
-title = "Modi Man vs Wild"
+title = "Modi Man vs Wild memes"
 date = 2019-08-03T02:56:11-05:00
 tags = ['Narendra Modi', 'Bear Grylls']
 description = ""

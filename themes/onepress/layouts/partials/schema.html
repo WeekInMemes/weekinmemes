@@ -11,9 +11,10 @@
     "@type": "Person",
     "name": "DK"
   },
+  "mainEntityOfPage": { "@type": "WebPage" },
    "publisher": {
     "@type": "Organization",
-    "name": "Week In Memes",
+    "name": {{ .Site.Params.header }},
     "logo": {
       "@type": "ImageObject",
       "url": "https://weekinmemes.com/img/logo.jpg"
@@ -27,8 +28,8 @@
 {
   "@context": "https://schema.org",
   "@type": "Organization",
-  "name": "Week In Memes",
-  "url": "https://weekinmemes.com",
+  "name": {{ .Site.Params.header }},
+  "url": {{ .Site.BaseURL }},
   "sameAs": [
     "https://www.facebook.com/{{ .Site.Params.facebook }}",
     "https://instagram.com/{{ .Site.Params.instagram }}",

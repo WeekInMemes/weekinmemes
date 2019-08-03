@@ -1,11 +1,11 @@
----
-title: "Alia Bhatt in Gully Boy memes"
-date: 2019-01-16T11:54:36-06:00
-draft: true
-featuredImage: "img/templates/alia-bhatt-gully-boy-mar-jayega-tu.jpeg"
-tags: ["Alia Bhatt", "Ranveer Singh", "Bollywood", "Gully Boy"]
-showthedate: false
----
++++
+title = "Alia Bhatt in Gully Boy memes"
+date = 2019-01-16T11:54:36-06:00
+draft = true
+featuredImage = "img/templates/alia-bhatt-gully-boy-mar-jayega-tu.jpeg"
+tags = ["Alia Bhatt", "Ranveer Singh", "Bollywood", "Gully Boy"]
+showthedate = false
++++
 
 ## Origin
 
