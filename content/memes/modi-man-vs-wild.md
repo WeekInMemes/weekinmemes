@@ -15,9 +15,19 @@ On Jul 28, 2019, Bear Grylls announced that Narendra Modi, the Prime Minister of
 <!--more-->
 {{< tweet 1155714307872579585 >}}
 
-## Template
+Some of the shots showing Modi out in the wild as Bear Grylls interacts with the "Most Important Man in India" which became a meme instantly:
+
+![](img/modi-man-vs-wild/modi-man-vs-wild-000.png)
+
+## Templates
 
 ![](img/templates/modi-man-vs-wild.jpg)
+
+![](img/templates/modi-man-vs-wild-flask.jpg)
+
+![](img/templates/modi-man-vs-wild-important.jpg)
+
+![](img/templates/modi-man-vs-wild-laugh.jpg)
 
 ## Memes
 
