@@ -24,6 +24,8 @@ or when month-end approaches and you eat anything to survive
 
 ## Templates
 
+![](img/templates/sacred-games-2-partnership.jpg)
+
 ![](img/templates/sacred-games-2-murga.jpg)
 
 ![](img/templates/sacred-games-2-chand.jpg)
