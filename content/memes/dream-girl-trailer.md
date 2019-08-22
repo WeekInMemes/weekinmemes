@@ -11,7 +11,7 @@ showthedate = false
 
 ## Origin
 
-The trailer for Ayushmann Khuarrana's next movie Dream Girl released on
+The trailer for Ayushmann Khuarrana's next movie Dream Girl released on Aug 12, 2019.
 
 Watch the trailer here:
 <!--more-->
