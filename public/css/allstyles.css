@@ -162,19 +162,38 @@ button, .button {
 /* HEADERS */
 /* ------------ */
 
+.header {
+  max-width: 1140px;
+  height: 48px;
+  position: fixed;
+  top: 0px;
+  right: 0px;
+  margin: 0px auto;
+  left: 0;
+  right: 0;
+  background-color: #DAD7C6;
+  z-index: 2;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  
+}
+
 .brand {
   display: flex;
   flex-direction: row;
   justify-content: center;
+  box-sizing: border-box;
 }
 
 
-.header img {
+.brand img {
 	max-width: 48px;
   height: 48px;
 }
 
-.header p {
+.brand p {
+  display: block;
   color: #333;
   font-family: "Source Sans Pro", sans-serif;
   font-weight: 400;
@@ -190,7 +209,14 @@ nav {
 	text-transform: uppercase;
 	letter-spacing: 1.67px;
 	line-height: 22px;
-	padding-bottom: 15px;
+}
+
+.main-nav {
+  margin: auto 10px;
+}
+
+nav ul {
+  margin: auto 2px;
 }
 
 nav ul li {
@@ -216,28 +242,16 @@ nav ul li a:hover {
 
 @media (max-width:768px) {
 
-.header {
-  width: 100%;
-  position: fixed;
-  background-color: #DAD7C6;
-  display: flex;
-  flex-direction: row-reverse;
-  justify-content: space-between;
-  max-height: 48px;
-}
-
-
-.main-nav {
-  z-index: 2;
-}
 
 nav ul {
   list-style-type:none;
   display:none;
 }
 nav ul.opening {
-  display:block;
-  padding-top: 1.2em; 
+  display: block;
+  position: absolute;
+  top: 48px;
+  right: 0px;
 }
 
 nav ul li {
@@ -250,12 +264,9 @@ nav ul li {
 
 
 .menu-toggle {
-  position: relative;
-  padding-top: 0.8em;
-  top: 0.5em;
-  left: 0.5em;
-  cursor:pointer;
+  cursor: pointer;
 }
+
 
 .hamburger, .hamburger::before, .hamburger::after {
   content:'';
@@ -341,7 +352,7 @@ aside .widgets:after {
 #site-wrapper {
 	max-width: 768px;
 	margin: 0px auto;
-  padding: 60px 30px 0px;
+  padding: 100px 30px 0px;
 	overflow-wrap: break-word;
 }
 #site-wrapper-centered {
