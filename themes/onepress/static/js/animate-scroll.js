@@ -1,4 +1,4 @@
-$("a[href*='#']").on('click', function(e) {
+$("#read-first-anchor-link").on('click', function(e) {
   e.preventDefault();
   var href = $(this).attr('href');
   req = href.substring(href.indexOf('#'));
