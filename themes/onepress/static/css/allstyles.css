@@ -352,7 +352,7 @@ aside .widgets:after {
 #site-wrapper {
 	max-width: 768px;
 	margin: 0px auto;
-  padding: 100px 30px 0px;
+  padding: 100px 0px;
 	overflow-wrap: break-word;
 }
 #site-wrapper-centered {
@@ -408,7 +408,7 @@ pre {
 
 main article.list,
 main article.single {
-	margin-bottom: 40px;
+	margin: 0px 30px 40px 30px;
 }
 
 main article.list a {
