@@ -6,11 +6,14 @@
 <body>
 	{{ if and (not .IsHome) (ne .Section "subscribe") }}
     <header class="header">
+        <div class = "brand">
 		{{ partial "brand.html" . }}
-	</header>
-    <nav class="main-nav">
+        </div>
+        <nav class="main-nav">
         {{ partial "nav.html" . }}
-    </nav>
+        </nav>
+	</header>
+    
     {{ end }}
     <!-- show sidebar if widgets param is set to true -->
 

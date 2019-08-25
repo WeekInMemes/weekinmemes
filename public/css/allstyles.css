@@ -162,11 +162,10 @@ button, .button {
 /* HEADERS */
 /* ------------ */
 
-header {
-	text-align: center;
+.brand {
   display: flex;
+  flex-direction: row;
   justify-content: center;
-  margin-bottom: 10px;
 }
 
 .header img {
@@ -191,17 +190,17 @@ nav {
 	line-height: 22px;
 	padding-bottom: 15px;
 }
+
 nav ul li {
-	display: inline;
-	padding: 0 7px;
+  display: inline;
+  padding: 0 7px;
 }
 
-
 nav ul li a {
-	color: #5b5b5b;
-	text-decoration: none;
-	border-bottom: none;
-	padding-bottom: 2px;
+  color: #5b5b5b;
+  text-decoration: none;
+  border-bottom: none;
+  padding-bottom: 2px;
 }
 
 nav li.active a {
@@ -209,8 +208,89 @@ nav li.active a {
 }
 
 nav ul li a:hover {
-	border-bottom: 1px solid #5b5b5b;
+  border-bottom: 1px solid #5b5b5b;
 }
+
+
+@media (max-width:768px) {
+
+nav ul {
+  display: flex;
+  flex-direction: column; 
+  list-style-type:none;
+  padding:0;
+  margin:0;
+  display:none;
+}
+nav ul.opening {
+  display:block;
+  height:30px;
+}
+
+nav ul li {
+  display: block;
+  padding: 0.3em;
+  text-align: left;
+  border-bottom:1px solid #fff; 
+  background-color: #DAD7C6;
+  width: 30%; 
+}
+
+
+.menu-toggle {
+  position:absolute;
+  padding:0.8em;
+  top:1em;
+  left: .5em;
+  cursor:pointer;
+}
+
+.hamburger, .hamburger::before, .hamburger::after {
+  content:'';
+  display:block;
+  background:#333;
+  height:3px;
+  width:1.2em;
+  border-radius:3px;
+  -webkit-transition:all ease-in-out350ms;
+  transition:all ease-in-out350ms;
+}
+
+.hamburger::before {
+  -webkit-transform: translateY(-7px);
+  transform: translateY(-7px);
+}
+
+.hamburger::after {
+  -webkit-transform: translateY(4px);
+  transform: translateY(4px);
+}
+
+ 
+.open .hamburger {
+  -webkit-transform: rotate(45deg);
+  transform: rotate(45deg);
+}
+
+.open .hamburger::before {
+  display:none; 
+}
+
+.open .hamburger::after {
+  -webkit-transform: translateY(-1px) rotate(-90deg);
+  transform: translateY(-1px) rotate(-90deg);
+}
+
+}
+
+
+@media (min-width:768px) {
+.menu-toggle {
+  display:none; 
+}
+}
+
+
 .subscribe-link {
 	background-color: #FC0FC0;
 }
@@ -225,6 +305,8 @@ nav ul li a:hover {
 .gsearch {
 	max-width: 200px;
 }
+
+
 
 
 /* ------------------------ */
