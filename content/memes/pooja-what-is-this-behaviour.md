@@ -39,7 +39,8 @@ And um whatever is going on here:
 
 Another user [@rukhsxr_](https://twitter.com/rukhsxr_) made a thread of all of Pooja's 'behaviours' like this: 
 
-{{< tweet 1122502007582068738 >}}
+< Tweet has since been deleted >
+
 
 Go watch the entire thread. I have no words to describe it. There seems to be a pattern in this behaviour that might do wih some help. Like [this article](https://economictimes.indiatimes.com/magazines/panache/banned-from-the-house-because-i-am-single-says-former-bigg-boss-contestant-pooja-misrra/articleshow/50545977.cms) that talks about how residents of the building she was living in also didn't like her behaviour.
 
