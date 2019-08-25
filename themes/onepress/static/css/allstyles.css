@@ -168,8 +168,10 @@ button, .button {
   justify-content: center;
 }
 
+
 .header img {
 	max-width: 48px;
+  height: 48px;
 }
 
 .header p {
@@ -214,17 +216,28 @@ nav ul li a:hover {
 
 @media (max-width:768px) {
 
-nav ul {
+.header {
+  width: 100%;
+  position: fixed;
+  background-color: #DAD7C6;
   display: flex;
-  flex-direction: column; 
+  flex-direction: row-reverse;
+  justify-content: space-between;
+  max-height: 48px;
+}
+
+
+.main-nav {
+  z-index: 2;
+}
+
+nav ul {
   list-style-type:none;
-  padding:0;
-  margin:0;
   display:none;
 }
 nav ul.opening {
   display:block;
-  height:30px;
+  padding-top: 1.2em; 
 }
 
 nav ul li {
@@ -233,15 +246,14 @@ nav ul li {
   text-align: left;
   border-bottom:1px solid #fff; 
   background-color: #DAD7C6;
-  width: 30%; 
 }
 
 
 .menu-toggle {
-  position:absolute;
-  padding:0.8em;
-  top:1em;
-  left: .5em;
+  position: relative;
+  padding-top: 0.8em;
+  top: 0.5em;
+  left: 0.5em;
   cursor:pointer;
 }
 
