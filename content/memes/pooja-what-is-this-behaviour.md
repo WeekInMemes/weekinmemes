@@ -50,6 +50,21 @@ Go watch the entire thread. I have no words to describe it. There seems to be a 
 
 ![](img/templates/pooja-what-is-this-behaviour.png)
 
+### Script
+
+```
+Shonali: Pooja what is this behaviour?
+Pooja: I'm sorry I kicked it by mistake
+S: You can't kick it by mistake
+P: Then pick it up if it bothers you
+S: No you will pick it up
+P: You don't tell me what to do
+S: I can tell you what to do
+P: You do not tell me what to do. YOU DO NOT TELL ME WHAT TO DO!
+S: Or what? Are you gonna hit me?
+P: Do you want it? Coz you're asking for it. You're dying for it. Get off my back. Got it?
+```
+
 ## Memes
 
 Check out some of the popular memes on the topic:
