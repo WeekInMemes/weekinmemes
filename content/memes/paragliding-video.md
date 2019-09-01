@@ -16,9 +16,7 @@ A video of a man paragliding in Manali has gone viral. Watch the video here:
 
 {{< youtube nouePnN1rY8 >}}
 
-In the video, the man, named Pawan Sahu goes from exhilaration to desperation pretty quick 
-
-from "Aur ye main aasmaan ki uchaaiyon mein" to "Main madarchod hoon jo isme aaya" in under 5 minutes. Don't miss the 
+In the video, the man, named Pawan Sahu goes from exhilaration to desperation pretty quickly. From "Aur ye main aasmaan ki uchaaiyon mein" to "Main madarchod hoon jo isme aaya" in under 5 minutes. Don't miss the 
 
 ## Template
 
