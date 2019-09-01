@@ -47,7 +47,7 @@ The last time Narendra Modi addressed the nation, everyone's Rs. 500 and Rs. 100
 
 While rockets are naturally shaped like penises, innuendo and rocket science go hand-in-... oh wait. Never mind. This one was brilliant (though a little ego-crushing :cry:)
 
-{{< tweet 1110798629223059456 >}}
+_tweet has since been deleted_
 
 
 Check out the details on this meme template and similar posts on the [Mission Shakti memes](memes/mission-shakti#memes) page
