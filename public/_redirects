@@ -1,5 +1,6 @@
-# *** Warning! Your custom domain is not using HTTPS yet ***
-# These rules will change if you change your site’s custom domains or HTTPS settings
-
 # Redirect default Netlify subdomain to primary domain
 https://weekinmemes.netlify.com/* https://weekinmemes.com/:splat 301!
+
+# Wrong weekly post names
+
+/posts/week014 /posts/week014-mission-mangal-mature-bag/ 301!
