@@ -37,7 +37,7 @@ The TikTok user is a 17-year old boy from Ahmedabad. Watch his original TikTok v
 {{< youtube PvoTiucXZGI >}}
 
 
-Get your [Mature Bag on Amazon](https://www.amazon.in/gp/product/B01F7AX9ZA/ref=as_li_tl?ie=UTF8&camp=3638&creative=24630&creativeASIN=B01F7AX9ZA&linkCode=as2&tag=weekinmemes-21&linkId=570920bf928ed069ef30d818900e1ebc) because it works!
+Get your [Mature Bag on Amazon](hthttps://www.amazon.in/stores/page/7BE30918-7CE1-401D-8189-802E841CC728/ref=as_li_ss_tl?ingress=2&visitId=5b6c0fb9-3bb1-43ee-a2a2-5d8d54f9ea9e&ref_=bl_dp_s_web_3923925031&linkCode=ll2&tag=weekinmemes-21&linkId=94b63d04ac073ae1ef8510bc8c13d498&language=en_IN) because it works!
 
 ![](img/mature-bag/mature-bag-results.png)
 
