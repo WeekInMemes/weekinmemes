@@ -883,6 +883,11 @@ footer {
   vertical-align: middle
 }
 
+.resp-sharing-button--small svg {
+  margin: 0;
+  vertical-align: middle
+}
+
 /* Non solid icons get a stroke */
 .resp-sharing-button__icon {
   stroke: #fff;
@@ -1055,6 +1060,10 @@ background-color: #FF6600
   border-color: #8c0615;
 }
 
+
+.mailerlite-thank-sharing {
+  text-align: center;
+}
 
 /* ------ ------ */
 /* MailerLite */
