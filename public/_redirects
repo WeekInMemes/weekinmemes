@@ -18,3 +18,4 @@ https://weekinmemes.netlify.com/* https://weekinmemes.com/:splat 301!
 /posts/week013 /posts/week013-orange-jersey-chahal-sacred-games/ 301!
 /posts/week014 /posts/week014-mission-mangal-mature-bag/ 301!
 
+/week* /posts/week:splat 301!
