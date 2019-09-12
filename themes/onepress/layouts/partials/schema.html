@@ -21,7 +21,7 @@
     }
   },
   "description": {{ .Summary | plainify | safeHTML }},
-  "keywords": [{{ range $i, $e := .Params.tags }}{{ if $i }}, {{ end }}{{ $e }}{{ end }}]
+  "keywords": [{{range .Params.tags}}"{{ . }}", {{ end }}"memes"]
 }
 {{ end }}
 
