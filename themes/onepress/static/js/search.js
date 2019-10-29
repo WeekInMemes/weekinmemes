@@ -53,4 +53,4 @@ display_results = function(){
     } 
 }
 
-setTimeout(display_results, 200);
+setTimeout(display_results, 1000);

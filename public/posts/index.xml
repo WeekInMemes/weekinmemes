@@ -6,10 +6,19 @@
     <description>Recent content in Posts on Week In Memes - What&#39;s Going Viral in India?</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 23 Jul 2019 02:08:24 -0500</lastBuildDate>
+    <lastBuildDate>Mon, 28 Oct 2019 22:58:15 -0500</lastBuildDate>
     
 	<atom:link href="https://weekinmemes.com/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Week015 - Back with more memes and features</title>
+      <link>https://weekinmemes.com/posts/week015-dabangg-3-trailer-ravi-shastri/</link>
+      <pubDate>Mon, 28 Oct 2019 22:58:15 -0500</pubDate>
+      
+      <guid>https://weekinmemes.com/posts/week015-dabangg-3-trailer-ravi-shastri/</guid>
+      <description>&lt;p&gt;Hello! I&amp;rsquo;ve been away from the blog for the last few weeks but I&amp;rsquo;m back now. If you haven&amp;rsquo;t seen it yet, there&amp;rsquo;s a new homepage design and a search bar now. It&amp;rsquo;s a quick but slightly hacky implementation of elastic search. If you know a better way, hit me up ^_^.&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Week 014 - Mission Mangal and Mature Bag</title>
