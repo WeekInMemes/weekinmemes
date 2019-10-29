@@ -65,13 +65,19 @@
     </head>
 <body>
 	<header class="header">
-        <a href = "https://weekinmemes.com"><div class = "brand">
+    <a href = "https://weekinmemes.com">
+    <div class = "brand">
 		<img src="img/logo.jpg" alt="Logo">
 <p>Week In Memes</p>
 
-        </div></a>
-        <nav class="main-nav">
-        
+    </div></a>
+    <div class="search_container">
+<form action="/search-results" method = "get" class="search-form">
+    <input type="text" class="form-control" placeholder="Search..." id="keyword" name = "q">
+</form>
+</div>
+    <nav class="main-nav">
+    
 <div class="menu-toggle">
 	<div class="hamburger"></div>
 </div>
@@ -82,8 +88,8 @@
     <li><a href='memes'>Memes</a></li>
 </ul>
 
-        </nav>
-	</header>
+    </nav>
+</header>
     
     <div id="site-wrapper">
         <main>
@@ -472,6 +478,8 @@
 <script src="/js/animate-scroll.js"></script>
 <script src="/js/hamburger.js"></script>
 <script src="/js/mailerlite.js"></script>
+<script src="/js/elasticlunr.min.js"></script>
+<script src="/js/search.js"></script>
 <script>hljs.initHighlightingOnLoad();</script>
 <div id="fb-root"></div>
 <script async defer crossorigin="anonymous" src="https://connect.facebook.net/en_GB/sdk.js#xfbml=1&version=v3.2"></script>

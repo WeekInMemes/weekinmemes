@@ -1,0 +1,10 @@
+<header class="header">
+    <a href = "{{ .Site.BaseURL }}">
+    <div class = "brand">
+		{{ partial "brand.html" . }}
+    </div></a>
+    {{ partial "search.html" . }}
+    <nav class="main-nav">
+    {{ partial "nav.html" . }}
+    </nav>
+</header>
