@@ -1,9 +1,7 @@
 
 var index;
 
-var search_term = window.location.search.substring(3).split('+').join(" ")
-
-get_index = function(){
+function get_index(){
   var start_time = Date.now()
   $.getJSON("/index.json", function(json) {
       index = elasticlunr(function () {
@@ -13,23 +11,17 @@ get_index = function(){
       this.addField('description');
       this.setRef('ref');
    });
-   console.log(json);
    $.each(json, function (key, val) {
      if(val.content.length !== 0 && val.description.length !== 0){
        index.addDoc(val);
      }
    });
 });
-console.log('Indexing done in ' + (Date.now() - start_time) + ' ms') 
-//callback();
+console.log('Indexing done in ' + (Date.now() - start_time) + ' ms')
 };
 
 get_index();
-
-
-
 display_results = function(){
-  console.log(index);
   $('#search-results').empty();
   var search_term = window.location.search.substring(3).split('+').join(" ")
   var results = index.search(search_term, {
@@ -39,7 +31,6 @@ display_results = function(){
           content: {boost: 1}
       }
   });
-  console.log(results);
   for (var i = 0; i < results.length; i++) { 
         var article = '<article class = \"list">';
         var headline =  '\"><h2 class=\"title\">' + results[i].doc['title'] + '</h2></a>';
@@ -53,4 +44,4 @@ display_results = function(){
     } 
 }
 
-setTimeout(display_results, 1000);
+$(document).ajaxComplete(display_results);

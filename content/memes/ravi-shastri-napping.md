@@ -1,12 +1,11 @@
 +++
-title = "Ravi Shastri Napping"
+title = "Ravi Shastri Napping memes"
 date = 2019-10-28T23:34:07-05:00
 tags = ['Ravi Shastri', 'Cricket']
 description = ""
 featuredImage = "img/templates/ravi-shastri-napping.jpg"
 draft = true
 showthedate = false
-hidden = true
 +++
 
 

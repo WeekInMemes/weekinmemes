@@ -6,7 +6,6 @@ description = ""
 featuredImage = "img/templates/dabangg-3-trailer-maarenge.jpg"
 draft = true
 showthedate = true
-hidden = true
 +++
 
 
