@@ -1,7 +1,7 @@
 +++
 title = "Akshay Kumar Scheme memes"
 date = 2019-06-11T10:30:16-05:00
-tags = ['Akshay Kumar', 'Bollywood', 'Phir Hera Pheri', 'Welcome', 'Ajnabee', 'Mujhse Shaadi Karogi', 'Garam Masala']
+tags = ['Akshay Kumar', 'Bollywood', 'Phir Hera Pheri', 'Welcome', 'Ajnabee', 'Mujhse Shaadi Karogi', 'Garam Masala', 'Deewane Huye Paagal']
 description = ""
 featuredImage = "img/templates/akshay-kumar-scheme-pose.png"
 draft = true
@@ -33,7 +33,7 @@ The group was created on May 22, 2019 and as of June 12, 2019, the group has 47,
 
 ![](img/templates/akshay-kumar-scheme-paisa-laaya-with-text.png)
 
-### Garam Masala
+### Deewane Huye Paagal
 
 ![](img/templates/akshay-kumar-scheme-baap-with-text.png)
 

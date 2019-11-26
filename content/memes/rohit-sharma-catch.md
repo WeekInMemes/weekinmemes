@@ -13,7 +13,7 @@ showthedate = false
 On Nov 22, the first day of the "Pink Ball Test", Mominul Haque was dismissed caught in the slips by Rohit Sharma off Umesh Yadav's bowling. Watch the catch here:
 
 <!--more-->
-<center><iframe src='//players.brightcove.net/3588749423001/Y5cFT70XGK_default/index.html?videoId=6107443389001' allowfullscreen frameborder=0 width = "640" height = "480"></iframe></center>
+<center><iframe src='//players.brightcove.net/3588749423001/Y5cFT70XGK_default/index.html?videoId=6107443389001' allowfullscreen frameborder=0></iframe></center>
 
 That catch led to memes like this:
 
