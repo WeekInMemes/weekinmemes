@@ -1,1 +1,2 @@
+Sitemap: https://weekinmemes.com/sitemap.xml
 User-agent: *
