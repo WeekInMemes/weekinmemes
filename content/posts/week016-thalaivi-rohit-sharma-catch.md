@@ -11,10 +11,10 @@ hidden = true
 
 Yo! I'm back with another edition of week in memes. While I haven't sent out many emails recently, I *have* written more articles. The website has also gone through a major redesign with a new home page, a search feature a new way to support the site. Check out the [support page](support)
 
-This week nothing major has happened in politics this week so... Wait. What happened? Let this fresh meme explain:
+Nothing major has happened in politics this week so... Wait. What happened? Let this fresh meme explain:
 <!--more-->
 
-![](img/rohit-sharma-catch/rohit-sharma-catch-013.png)
+![](img/rohit-sharma-catch/rohit-sharma-catch-012.png)
 
 ## Rohit Sharma Catch
 
