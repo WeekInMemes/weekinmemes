@@ -13,9 +13,9 @@ You can support WeekInMemes without spending a dime! Even better, when you suppo
 
 The easiest way to support is via tips in Basic Action Token (BAT), a cryptocurrency for publishers. If you use the Brave browser, you can tip by clicking on the BAT icon on the top right corner and clicking "Send a tip"
 
-![](img/brave-tip.jpg) 
+![](img/brave-tip.png) 
 
-You can download the browser using my referral link: https://brave.com/wee460 I get $5 worth of BAT for each referral.
+You can download the browser using my referral link: https://brave.com/wee460 I get $5 worth of BAT for each referral. You get BAT everytime you use the browser and watch an ad. This is available in India! You can use the BAT you earn to tip publishers you like (like WeekInMemes :wink:)
 
 
 ## Sweatcoin referral
