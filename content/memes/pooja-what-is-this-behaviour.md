@@ -37,6 +37,10 @@ And um whatever is going on here:
 {{< tweet 1120676499705569280 >}}
 
 
+Using Pooja what is this behavior as a pickup line? Bold move, Cotton.
+
+{{< tweet 1201568030016311296 >}}
+
 Another user [@rukhsxr_](https://twitter.com/rukhsxr_) made a thread of all of Pooja's 'behaviours' like this: 
 
 < Tweet has since been deleted >
@@ -73,6 +77,12 @@ Check out some of the popular memes on the topic:
 {{< gallery dir="img/pooja-what-is-this-behaviour" />}}
 
 
+## TikTok
+
+<iframe width="340" height="700" src="https://www.tiktok.com/embed/6764803000478338309" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<br>
+<iframe width="340" height="700" src="https://www.tiktok.com/embed/6701774695156419845" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ---
 \- DK
