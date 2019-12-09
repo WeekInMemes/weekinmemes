@@ -8,6 +8,7 @@ disqusShortname = "weekinmemes"
 enableEmoji = true
 enableRobotsTXT = true
 paginate = 10
+enableGitInfo = true
 
 [params]
 header = "Week In Memes"
