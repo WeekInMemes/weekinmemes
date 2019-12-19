@@ -39,7 +39,7 @@ Check out the details on this meme template and similar posts on the [Sunny Deol
 
 CID memes have always been popular with some even making a career out of it *cough* rvcj *cough*. ACP Pradyuman shouting 'Daya! Darwaza Tod Do' before he breaks open a door or him slapping a confession out of an accused have been meme-d before. This new emo side of him is new but sometimes you can hit two birds with one stone or in Daya's case break two doors with one shoulder.
 
-{{< tweet 1122048132387184641 >}}
+< tweet  has since been deleted >
 
 Check out the details on this meme template and similar posts on the [Depressed Daya CID memes](memes/depressed-daya-cid#memes) page
 
