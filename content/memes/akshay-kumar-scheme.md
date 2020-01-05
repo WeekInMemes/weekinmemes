@@ -21,26 +21,30 @@ The group was created on May 22, 2019 and as of June 12, 2019, the group has 47,
 
 ### Ajnabee
 
-![](img/templates/akshay-kumar-scheme-switch.jpg)
+![Akshay Kumar Ajnabee Switch](img/templates/akshay-kumar-scheme-switch.jpg)
 
 ### Phir Hera Pheri
 
-![](img/templates/akshay-kumar-scheme-pose.png)
+![Akshay Kumar Phir Hera Pheri Pose](img/templates/akshay-kumar-scheme-pose.png)
 
-![](img/templates/akshay-kumar-scheme-paisa-ho-to-with-text.png)
+![Akshay Kumar Phir Hera Pheri Bhai Paisa Ho To Kya Kuch Nahi Ho Sakta](img/templates/akshay-kumar-scheme-paisa-ho-to-with-text.png)
+<center>Bhai Paisa Ho To Kya Kuch Nahi Ho Sakta</center>
 
-![](img/templates/akshay-kumar-scheme-with-text.png)
+![Akshay Kumar Phir Hera Pheri Zor Zor Se Bolke Logon Ko Scheme Batade](img/templates/akshay-kumar-scheme-with-text.png)
+<center>Zor Zor Se Bolke Logon Ko Scheme Batade</center>
 
-![](img/templates/akshay-kumar-scheme-paisa-laaya-with-text.png)
+![Akshay Kumar Phir Hera Pheri Paisa Laaya?](img/templates/akshay-kumar-scheme-paisa-laaya-with-text.png)
+<center>Paisa Laaya?</center>
 
 ### Deewane Huye Paagal
 
-![](img/templates/akshay-kumar-scheme-baap-with-text.png)
+![Akshay Kumar Deewane Huye Paagal Haan Maloom Hai Chal Apne Baap Ko Mat Sikha](img/templates/akshay-kumar-scheme-baap-with-text.png)
+<center>Haan Maloom Hai Chal Apne Baap Ko Mat Sikha</center>
 
 ### Mujhse Shaadi Karogi
 
-![](img/templates/akshay-kumar-scheme-maal-with-text.png)
-
+![Akshay Kumar Mujhse Shaadi Karogi Kya Maal Hai Yaar](img/templates/akshay-kumar-scheme-maal-with-text.png)
+<center>Kya Maal Hai Yaar</center>
 
 
 ## Memes

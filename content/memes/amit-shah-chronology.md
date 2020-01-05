@@ -27,7 +27,9 @@ The line "Aap Chronology Samajhiye" has since then become a meme.
 
 ## Template
 
-![](img/templates/amit-shah-chronology.jpg)
+![Amit Shah Aap Chronology Samajhiye](img/templates/amit-shah-chronology.jpg)
+
+<center>Aap Chronology Samajhiye</center>
 
 ## Memes
 

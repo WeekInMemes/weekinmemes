@@ -27,13 +27,13 @@ Even Amit Shah made it to the memes
 
 ## Template
 
-![](img/templates/panipat-trailer-arjun-kapoor.jpg)
+![Arjun Kapoor in Panipat Trailer](img/templates/panipat-trailer-arjun-kapoor.jpg)
 
-![](img/templates/panipat-trailer-arjun-kapoor-jeevan.jpg)
+![Arjun Kapoor in Panipat Trailer Mere Jeevan Mein Tum Hi Ho Aur Tum Hi Rahogi](img/templates/panipat-trailer-arjun-kapoor-jeevan.jpg)
 
 <center>Mere Jeevan Mein Tum Hi Ho Aur Tum Hi Rahogi</center>
 
-![](img/templates/panipat-trailer-kriti-sanon-arjun-kapoor-sukh-dukh.jpg)
+![Arjun Kapoor in Panipat Trailer Sukh mein Peeche Rahunga Aur Dukh Mein Aage Aa Jaunga](img/templates/panipat-trailer-kriti-sanon-arjun-kapoor-sukh-dukh.jpg)
 
 <center>Sukh mein Peeche Rahunga Aur Dukh Mein Aage Aa Jaunga</center>
 

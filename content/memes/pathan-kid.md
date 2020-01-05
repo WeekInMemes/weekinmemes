@@ -22,9 +22,9 @@ He originally appeared in a viral video saying "Ye mera basta hai" (*Translation
 
 ## Template
 
-![](img/templates/pathan-kid-peeche-dekho-with-text.png)
+![Ahmad Shah Peeche Dekho](img/templates/pathan-kid-peeche-dekho-with-text.png)
 
-![](img/templates/pathan-kid-dushman-with-text.png)
+![Ahmad Shah Tum Mera Dushman Ho](img/templates/pathan-kid-dushman-with-text.png)
 
 ## Memes
 

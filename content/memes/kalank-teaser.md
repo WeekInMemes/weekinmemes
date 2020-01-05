@@ -29,11 +29,13 @@ The two dialogues that made into memes were:
 
 ## Template
 
-![](img/templates/kalank-teaser.jpg)
+![Kalank Teaser](img/templates/kalank-teaser.jpg)
 
-![](img/templates/kalank-teaser-alia-bhatt-barbaad.jpg)
+![Alia Bhatt in Kalank Teaser Humse zyada barbaad aur koi nahi hai iss duniya mein](img/templates/kalank-teaser-alia-bhatt-barbaad.jpg)
+<center>Humse zyada barbaad aur koi nahi hai iss duniya mein</center>
 
-![](img/templates/kalank-teaser-varun-dhawan-rishte.jpg)
+![Varun Dhawan in Kalank Teaser Kuch rishte karzon ki tarah hote hai. Unhe nibhaana nahi chukana padta hai](img/templates/kalank-teaser-varun-dhawan-rishte.jpg)
+<center>Kuch rishte karzon ki tarah hote hai. Unhe nibhaana nahi chukana padta hai</center>
 
 ## Memes
 

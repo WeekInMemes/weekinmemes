@@ -52,7 +52,8 @@ Go watch the entire thread. I have no words to describe it. There seems to be a 
 
 ## Template
 
-![](img/templates/pooja-what-is-this-behaviour.png)
+![Pooja What Is This Behaviour](img/templates/pooja-what-is-this-behaviour.png)
+<center>Pooja What Is This Behaviour</center>
 
 ### Script
 

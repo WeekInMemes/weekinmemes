@@ -18,7 +18,7 @@ This led to comparisons with petrol pump employees, especially Indian Oil ones.
 
 ## Template
 
-![](img/templates/india-orange-jersey-virat-kohli.jpg)
+![India Orange Jersey](img/templates/india-orange-jersey-virat-kohli.jpg)
 
 ## Memes
 

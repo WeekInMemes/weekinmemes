@@ -21,7 +21,7 @@ Daya who is known in the show for 'breaking doors' is shown having a rare pensiv
 
 ## Template
 
-![](img/templates/depressed-daya-cid-collage.jpg)
+![Depressed Daya in CID](img/templates/depressed-daya-cid-collage.jpg)
 
 ## Memes
 

@@ -33,12 +33,14 @@ When that doesn't work, *Poori duniya se kaho copy that!*
 
 ## Templates
 
-![](img/templates/mission-mangal-trailer-succeeding.jpg)
+![Dalip Tahil in Mission Mangal Trailer The chances of this mission succeeding is less than 1%](img/templates/mission-mangal-trailer-succeeding.jpg)
+<center>The chances of this mission succeeding is less than 1%</center>
 
-![](img/templates/mission-mangal-trailer-karenge.jpg)
+![Akshay Kumar in Mission Mangal Trailer Mujhe ahbi tak nahi pata kaise karenge par karenge sir, karna hi hoga](img/templates/mission-mangal-trailer-karenge.jpg)
+<center>Mujhe ahbi tak nahi pata kaise karenge par karenge sir, karna hi hoga</center>
 
-![](img/templates/mission-mangal-trailer-copy-that.jpg)
-
+![Akshay Kumar in Mission Mangal Trailer Poori duniya se kaho copy that!](img/templates/mission-mangal-trailer-copy-that.jpg)
+<center>Poori duniya se kaho copy that!</center>
 
 
 ## Memes

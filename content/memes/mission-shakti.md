@@ -25,7 +25,7 @@ The Indian National Congress had a field day with it by making a thread of all t
 
 ## Template
 
-![](img/templates/modi-mission-shakti.gif)
+![Narendra Modi Mission Shakti Quotes](img/templates/modi-mission-shakti.gif)
 
 ## Memes
 

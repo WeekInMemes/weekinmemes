@@ -27,9 +27,11 @@ This particular tweet by Mumbai Police raising awareness about wearing helmets w
 
 ## Templates
 
-![Mar Jayega Tu](img/templates/alia-bhatt-gully-boy-mar-jayega-tu.jpeg)
+![Alia Bhatt in Gully Boy Mar Jayega Tu](img/templates/alia-bhatt-gully-boy-mar-jayega-tu.jpeg)
+<center>Mar Jayega Tu</center>
 
-![Liver Transplant](img/templates/alia-bhatt-gully-boy-liver.jpg)
+![Alia Bhatt in Gully Boy Ek Din Main Aapka Liver Transplant Kar Sakti Hoon](img/templates/alia-bhatt-gully-boy-liver.jpg)
+<center>Ek Din Main Aapka Liver Transplant Kar Sakti Hoon</center>
 
 ## Memes
 

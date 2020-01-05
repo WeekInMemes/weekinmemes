@@ -22,7 +22,7 @@ While the makeup artists must have worked hard to get the look right, it left a 
 
 ## Template
 
-![](img/templates/thalaivi-first-look.jpg)
+![Kangana Ranaut in Thalaivi First Look](img/templates/thalaivi-first-look.jpg)
 
 ## Memes
 

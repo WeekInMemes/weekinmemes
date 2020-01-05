@@ -21,7 +21,8 @@ The dialogue "Kya hua kab hua ye sab mujhe yaad nahi" occurs at the 0:14 mark
 
 ## Template
 
-![](img/templates/vikrant-massey-criminal-justice.png)
+![Vikrant Massey in Criminal Justice Kya hua kab hua ye sab mujhe yaad nahi](img/templates/vikrant-massey-criminal-justice.png)
+<center>Kya hua kab hua ye sab mujhe yaad nahi</center>
 
 ## Memes
 

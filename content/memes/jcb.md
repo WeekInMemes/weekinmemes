@@ -42,7 +42,7 @@ Another theory is that it started with Sunny Leone, who knows
 
 ## Template
 
-![](img/templates/jcb.jpg)
+![JCB Ki Khudayi](img/templates/jcb.jpg)
 
 ## Memes
 

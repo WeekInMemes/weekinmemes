@@ -25,11 +25,13 @@ Some of the dialogues that made it to memes:
 
 ## Templates
 
-![](img/templates/kalank-trailer-alia-bhatt-mere-paas-khone-ko-kuch-hai-nahi-with-text.jpg)
+![Alia Bhatt in Kalank Trailer Mere paas khone ko kuch nahi hai](img/templates/kalank-trailer-alia-bhatt-mere-paas-khone-ko-kuch-hai-nahi-with-text.jpg)
+<center>Mere paas khone ko kuch nahi hai</center>
 
-![](img/templates/kalank-trailer-alia-bhatt-aditya-roy-kapoor-iss-rishte-mein-with-text.jpg)
+![Aditya Roy Kapoor in Kalank Trailer Is rishte mein izzat hogi pyaar nahi](img/templates/kalank-trailer-alia-bhatt-aditya-roy-kapoor-iss-rishte-mein-with-text.jpg)
+<center>Is rishte mein izzat hogi pyaar nahi</center>
 
-![](img/templates/kalank-trailer-alia-bhatt-varun-dhawan-train.jpg)
+![Alia Bhatt Varun Dhawan Train Scene in Kalank Trailer](img/templates/kalank-trailer-alia-bhatt-varun-dhawan-train.jpg)
 
 
 ## Memes

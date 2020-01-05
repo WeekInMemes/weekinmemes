@@ -25,7 +25,7 @@ Towards the end of the segment, Baba Ramdev performed some acrobatics. In a show
 
 ## Template
 
-![](img/templates/ramdev-lifts-arnab.jpg)
+![Baba Ramdev Lifts Arnab Goswami on Republic](img/templates/ramdev-lifts-arnab.jpg)
 
 ## Memes
 

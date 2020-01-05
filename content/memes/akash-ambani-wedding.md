@@ -22,9 +22,9 @@ For Akash Ambani's impeccable expressions check around the 2:00 mark
 
 ## Template
 
-![](img/templates/akash-ambani-wedding.jpg)
+![Akash Ambani Wedding](img/templates/akash-ambani-wedding.jpg)
 
-![](img/templates/akash-ambani-wedding.gif)
+![Akash Ambani Wedding](img/templates/akash-ambani-wedding.gif)
 
 
 ## Memes

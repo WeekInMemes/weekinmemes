@@ -22,7 +22,7 @@ The image of Narendra Modi holding the eclipse glasses while wearing his sunglas
 
 ## Template
 
-![](img/templates/modi-sunglasses.jpg)
+![Modi Sunglasses](img/templates/modi-sunglasses.jpg)
 
 ## Memes
 

@@ -24,7 +24,7 @@ Let's hear it from the man himself what he thinks of all the memes:
 
 ## Template
 
-![](img/templates/anil-kapoor-malang.jpg)
+![Anil Kapoor with Malang starcast](img/templates/anil-kapoor-malang.jpg)
 
 ## Memes
 

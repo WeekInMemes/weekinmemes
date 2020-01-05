@@ -18,11 +18,14 @@ Watch the trailer here:
 
 ## Template
 
-![](img/templates/vivek-oberoi-modi-badla.png)
+![Vivek Oberoi As PM Narendra Modi Haath Kaat Doonga](img/templates/vivek-oberoi-modi-haath.png)
+<center>Haath Kaat Doonga</center>
 
-![](img/templates/vivek-oberoi-modi-gujarat-jal-raha-hai.png)
+![Mera Gujarat Jal Raha Hai](img/templates/vivek-oberoi-modi-gujarat-jal-raha-hai-with-text.jpg)
+<center>Mera Gujarat Jal Raha Hai</center>
 
-![](img/templates/vivek-oberoi-modi-hindustani.png)
+![Vivek Oberoi As PM Narendra Modi Hum Hindustani Nahi Ban Paaye](img/templates/vivek-oberoi-modi-hindustani-with-text.png)
+<center>Hum Hindustani Nahi Ban Paaye</center>
 
 ## Memes
 

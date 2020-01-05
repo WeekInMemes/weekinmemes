@@ -17,7 +17,7 @@ Ravi Shastri, head coach of the Indian Cricket team, was seen napping during the
 
 ## Template
 
-![](img/templates/ravi-shastri-napping.jpg)
+![Ravi Shastri Napping](img/templates/ravi-shastri-napping.jpg)
 
 ## Memes
 

@@ -25,7 +25,7 @@ I can't believe I just wrote all of that. Please watch the entire video for more
 
 ## Template
 
-![](img/templates/sasural-simar-ka-curtain.gif)
+![Sasural Simar Ka Curtain Scene](img/templates/sasural-simar-ka-curtain.gif)
 
 ## Memes
 

@@ -28,11 +28,12 @@ Pankaj Tripathi's dialogue "Balidan Dena Hoga" *(translation: Sacrifices must be
 
 ## Templates
 
-![](img/templates/sacred-games-2-trailer-balidan-with-text.png)
+![Pankaj Tripathi in Sacred Games 2 Balidan Dena Hoga](img/templates/sacred-games-2-trailer-balidan-with-text.png)
+<center>Balidan Dena Hoga</center>
 
-![](img/templates/sacred-games-2-trailer-nawazuddin.png)
+![Nawazuddin Siddiqui in Sacred Games 2](img/templates/sacred-games-2-trailer-nawazuddin.png)
 
-![](img/templates/sacred-games-2-trailer-nawazuddin2.png)
+![Nawazuddin Siddiqui in Sacred Games 2 Corporate](img/templates/sacred-games-2-trailer-nawazuddin2.png)
 
 ## Memes
 

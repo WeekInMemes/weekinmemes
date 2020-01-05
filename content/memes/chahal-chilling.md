@@ -19,7 +19,7 @@ With millions of viewers watching live, lots of them could relate to the pose:
 
 ## Template
 
-![](img/templates/chahal-chilling.jpg)
+![Yuzvendra Chahal Chilling](img/templates/chahal-chilling.jpg)
 
 ## Memes
 

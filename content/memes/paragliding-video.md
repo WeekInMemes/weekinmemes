@@ -20,11 +20,14 @@ In the video, the man, named Pawan Sahu goes from exhilaration to desperation pr
 
 ## Template
 
-![](img/templates/paragliding-video-pair.jpg)
+![Paragliding Video Pair Upar Kar Gaandu](img/templates/paragliding-video-pair.jpg)
+<center>Pair Upar Kar Gaandu</center>
 
-![](img/templates/paragliding-video-madarchod.jpg)
+![Paragliding Video Main Madarchod Hoon Jo Isme Aaya](img/templates/paragliding-video-madarchod.jpg)
+<center>Main Madarchod Hoon Jo Isme Aaya</center>
 
-![](img/templates/paragliding-video-500.jpg)
+![Paragliding Video 500 zyada lele par land kara de](img/templates/paragliding-video-500.jpg)
+<center>500 zyada lele par land kara de</center>
 
 ## Memes
 

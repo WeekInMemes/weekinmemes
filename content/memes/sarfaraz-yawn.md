@@ -27,7 +27,7 @@ Sarfaraz' views on the subject:
 
 ## Template
 
-![](img/templates/sarfaraz-yawn.jpg)
+![Sarfaraz Ahmed yawning](img/templates/sarfaraz-yawn.jpg)
 
 ## Memes
 

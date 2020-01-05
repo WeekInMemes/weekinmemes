@@ -21,7 +21,7 @@ That catch led to memes like this:
 
 ## Template
 
-![](img/templates/rohit-sharma-catch.jpg)
+![Rohit Sharma Catch](img/templates/rohit-sharma-catch.jpg)
 
 ## Memes
 

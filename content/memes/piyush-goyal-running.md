@@ -20,7 +20,7 @@ Twitter found it quite amusing. OpIndia decided to find the positives in the eve
 
 ## Template
 
-![](img/templates/piyush-goyal-running.jpg)
+![Piyush Goyal Running](img/templates/piyush-goyal-running.jpg)
 
 ## Memes
 

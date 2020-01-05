@@ -18,7 +18,7 @@ In the highlights video uploaded by ICC for the match, you can see the dropped c
 
 ## Template
 
-![](img/templates/angry-pakistan-fan.png)
+![Angry Pakistan Fan](img/templates/angry-pakistan-fan.png)
 
 ## Memes
 

@@ -19,7 +19,7 @@ This led to a flurry of memes most of which focused on how Ambani "bought" the g
 
 ## Template
 
-![](img/templates/malinga-no-ball.jpg)
+![Lasith Malinga No Ball](img/templates/malinga-no-ball.jpg)
 
 ## Memes
 

@@ -19,7 +19,7 @@ The Met Gala theme for this year was 'camp' which is basically a shout out to th
 
 ## Template
 
-![](img/templates/priyanka-chopra-met-gala.jpg)
+![Priyanka Chopra At Met Gala 2019](img/templates/priyanka-chopra-met-gala.jpg)
 
 ## Memes
 

@@ -21,7 +21,7 @@ This image led to memes like this:
 
 ## Template
 
-![](img/templates/anushka-sharma-back.jpg)
+![Anushka Sharma Back](img/templates/anushka-sharma-back.jpg)
 
 ## Memes
 

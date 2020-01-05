@@ -27,19 +27,19 @@ Here is a thread of all instances of Tiger Shroff in the air in the Student of T
 
 ## Template
 
-![](img/templates/student-of-the-year-2-ananya-panday.jpg)
+![Student Of The Year 2 Ananya Panday](img/templates/student-of-the-year-2-ananya-panday.jpg)
 
-![](img/templates/student-of-the-year-2-tara-sutaria.jpg)
+![Student Of The Year 2 Tara Sutaria](img/templates/student-of-the-year-2-tara-sutaria.jpg)
 
-![](img/templates/student-of-the-year-2-tiger-shroff.jpg)
+![Student Of The Year 2 Tiger Shroff](img/templates/student-of-the-year-2-tiger-shroff.jpg)
 
-![](img/templates/student-of-the-year-2-tiger-shroff-entering.jpg)
+![Student Of The Year 2 Tiger Shroff Entering](img/templates/student-of-the-year-2-tiger-shroff-entering.jpg)
 
-![](img/templates/student-of-the-year-2-tiger-shroff-leaving.jpg)
+![Student Of The Year 2 Tiger Shroff Leaving](img/templates/student-of-the-year-2-tiger-shroff-leaving.jpg)
 
-![](img/templates/student-of-the-year-2-tiger-shroff-flying.png)
+![Student Of The Year 2 Tiger Shroff Flying](img/templates/student-of-the-year-2-tiger-shroff-flying.png)
 
-![](img/templates/student-of-the-year-2-spiderman-wonderwoman.jpg)
+![Student Of The Year 2 Spiderman Wonder Woman](img/templates/student-of-the-year-2-spiderman-wonderwoman.jpg)
 
 ## Memes
 

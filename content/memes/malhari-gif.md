@@ -24,7 +24,7 @@ The gif from Malhari has become a popular 'celebration' among the reddit and esp
 
 ## Template
 
-![](img/templates/malhari.gif)
+![Ranveer Singh in Bajirao Mastani Malhari](img/templates/malhari.gif)
 
 ## Memes
 

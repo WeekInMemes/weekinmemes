@@ -19,7 +19,7 @@ Like this:
 
 ## Template
 
-![](img/templates/imran-tahir-celebration.jpg)
+![Imran Tahir celebration](img/templates/imran-tahir-celebration.jpg)
 
 ## Memes
 

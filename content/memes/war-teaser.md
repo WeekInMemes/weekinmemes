@@ -24,9 +24,9 @@ Watch the teaser here:
 
 ## Template
 
-![](img/templates/war-teaser-super-30.jpg)
+![Hrithik Roshan in Super 30](img/templates/war-teaser-super-30.jpg)
 
-![](img/templates/war-teaser-war.jpg)
+![Hrithik Roshan in War Teaser](img/templates/war-teaser-war.jpg)
 
 
 ## Memes
