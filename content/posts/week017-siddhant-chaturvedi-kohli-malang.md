@@ -25,7 +25,7 @@ After the clip became viral, Twitter users got to making memes explaining their 
 
 Check out the details on this and similar posts on the [Siddhant Chaturvedi Ananya Panday Nepotism Reply memes](memes/siddhant-chaturvedi-ananya-panday-nepotism#memes) page
 
-## Virat Kohli's pitch 
+## Virat Kohli's pitch inspection
 
 On Jan 5, 2020, India was scheduled to play Sri Lanka in a T20 match at Guwahati's Barsapara Cricket Stadium but rain played spoilsport and the match was washed out. That didn't stop Twitter from making memes though.
 <!--more-->
