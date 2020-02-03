@@ -15,7 +15,13 @@ New Year, New Memes. Ananya Panday became the subject of the year's first meme a
 
 Twitter user [@shahrukhdevdas](https://twitter.com/shahrukhdevdas) shared the clip with Ananya Panday's explanation of her struggle as Chunky Panday's daughter to which Siddhant Chaturvedi had the perfect response. Watch the video here:
 
-{{< tweet 1212177040583090178 >}}
+< Tweet has since been deleted >
+
+Watch the full Newcomers Roundtable Here:
+
+{{< youtube O8BXjZQxAOk >}}
+
+The clip occurs at 40:20.
 
 Siddhant Chaturvedi who gained popularity as MC Sher in Gully Boy is an "outsider" in Bollywood unlike the many new stars including Ananya Panday who is actor Chunky Panday's daughter.
 

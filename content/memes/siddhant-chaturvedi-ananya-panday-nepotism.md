@@ -14,7 +14,7 @@ In a "Newcomers Roundtable" hosted by Rajeev Masand on Dec 31, 2019, Siddhant Ch
 <!--more-->
 Twitter user [@shahrukhdevdas](https://twitter.com/shahrukhdevdas) shared the clip with Ananya Panday's explanation of her struggle as Chunky Panday's daughter to which Siddhant Chaturvedi had the perfect response. Watch the video here:
 
-{{< tweet 1212177040583090178 >}}
+< Tweet has since been deleted >
 
 Watch the full Newcomers Roundtable Here:
 
