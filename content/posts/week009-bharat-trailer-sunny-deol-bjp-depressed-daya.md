@@ -26,6 +26,8 @@ But since they went ahead and added some other dialogues, Katrina Kaif had the b
 
 Check out the details on this meme template and similar posts on the [Bharat Trailer memes](memes/bharat-trailer#memes) page
 
+{{< adsense-midarticle >}}
+
 ## Sunny Deol joins BJP
 
 Sunny Deol was Akshay Kumar before Akshay Kumar became Akshay Kumar i.e. the de facto action hero nationalist of Bollywood. So when he joined BJP, his scenes and dialogues from movies like Gadar and Border resurfaced as memes. Like this famous handpump scene from Gadar where he goes ballistic on a crowd of Pakistanis which is now known as:
@@ -34,6 +36,8 @@ Sunny Deol was Akshay Kumar before Akshay Kumar became Akshay Kumar i.e. the de 
 
 
 Check out the details on this meme template and similar posts on the [Sunny Deol BJP memes](memes/sunny-deol-bjp#memes) page
+
+{{< adsense-midarticle >}}
 
 ## Depressed Daya
 

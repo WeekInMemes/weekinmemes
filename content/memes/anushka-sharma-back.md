@@ -23,6 +23,8 @@ This image led to memes like this:
 
 ![Anushka Sharma Back](img/templates/anushka-sharma-back.jpg)
 
+{{< adsense-midarticle >}}
+
 ## Memes
 
 Check out some of the popular memes on the topic:

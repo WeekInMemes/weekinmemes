@@ -25,6 +25,8 @@ Indian Oil also joined in the fun.
 
 Check out the details on this meme template and similar posts on the [India Orange Jersey memes](memes/india-orange-jersey#memes) page.
 
+{{< adsense-midarticle >}}
+
 ## Sacred Games 2 Trailer
 
 The trailer for the much-awaited second season of Netflix series Sacred Games (based on a book by the same name by Vikram Chandra) was finally released on Jul 08, 2019. The second season is set to go live on Netflix on Aug 15, 2019.
@@ -38,6 +40,8 @@ Netflix which is usually on top of the meme game started the celebration with th
 {{< tweet 1148520588689887232 >}}
 
 Check out the details on this meme template and similar posts on the [Sacred Games 2 Trailer memes](memes/sacred-games-2-trailer#memes) page.
+
+{{< adsense-midarticle >}}
 
 ## Chahal Chilling
 

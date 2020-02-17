@@ -21,6 +21,8 @@ Like this:
 
 ![Imran Tahir celebration](img/templates/imran-tahir-celebration.jpg)
 
+{{< adsense-midarticle >}}
+
 ## Memes
 
 Check out some of the popular memes on the topic:

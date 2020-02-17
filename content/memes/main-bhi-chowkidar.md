@@ -16,6 +16,8 @@ Narendra Modi launched his campaign for the 2019 elections with the tagline "Mai
 
 Everyone from the ruling party, BJP added "Chowkidar" to their names on Twitter and so did a lot of supporters. Now there are chowkidar t-shirts, wall clocks and what not. Please gift them to your watchman.
 
+{{< adsense-midarticle >}}
+
 ## Memes
 
 Check out some of the popular memes on the topic:

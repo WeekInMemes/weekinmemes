@@ -26,6 +26,8 @@ The gif from Malhari has become a popular 'celebration' among the reddit and esp
 
 ![Ranveer Singh in Bajirao Mastani Malhari](img/templates/malhari.gif)
 
+{{< adsense-midarticle >}}
+
 ## Memes
 
 Check out some of the popular memes on the topic:

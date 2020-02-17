@@ -29,6 +29,8 @@ The best part though was this totally-not-scripted moment when Akash Ambani firs
 
 Check out the details on this and similar posts on the [Akash Ambani Wedding memes](memes/akash-ambani-wedding#memes) page
 
+{{< adsense-midarticle >}}
+
 ## Anil Kapoor is ageless
 
 According to Wikipedia, Anil Kapoor is 62 years old. According to his pictures he could be anywhere between 20 and 40.
@@ -42,6 +44,8 @@ Like Benjamin Button, he seems to have aged in reverse.
 ![](img/anil-kapoor-age/anil-kapoor-age-ladywithflaws-younger.png)
 
 Check out the details on this meme tempalte and similar posts on the [Anil Kapoor Age memes](memes/anil-kapoor-age#memes) page
+
+{{< adsense-midarticle >}}
 
 ## Kalank Teaser
 

@@ -25,6 +25,8 @@ The line "Maarenge bhi hum aur bachayenge bhi hum" reminded some Twitter users o
 ![Salman Khan in Dabangg 3 Trailer Maarenge Bhi Hum Aur Bachayenge Bhi Hum](img/templates/dabangg-3-trailer-maarenge.jpg)
 <center>Maarenge Bhi Hum Aur Bachayenge Bhi Hum</center>
 
+{{< adsense-midarticle >}}
+
 ## Memes
 
 Check out some of the popular memes on the topic:

@@ -24,6 +24,8 @@ For Akash Ambani's impeccable expressions check around the 2:00 mark
 
 ![Akash Ambani Wedding](img/templates/akash-ambani-wedding.jpg)
 
+{{< adsense-midarticle >}}
+
 ![Akash Ambani Wedding](img/templates/akash-ambani-wedding.gif)
 
 

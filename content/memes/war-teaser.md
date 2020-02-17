@@ -26,6 +26,8 @@ Watch the teaser here:
 
 ![Hrithik Roshan in Super 30](img/templates/war-teaser-super-30.jpg)
 
+{{< adsense-midarticle >}}
+
 ![Hrithik Roshan in War Teaser](img/templates/war-teaser-war.jpg)
 
 

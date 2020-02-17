@@ -25,6 +25,8 @@ Some of the shots showing Modi out in the wild as Bear Grylls interacts with the
 
 ![Modi Bear Grylls Man vs. Wild Flask](img/templates/modi-man-vs-wild-flask.jpg)
 
+{{< adsense-midarticle >}}
+
 ![Modi Bear Grylls Man vs. Wild You are the most important man in India](img/templates/modi-man-vs-wild-important.jpg)
 <center>You are the most important man in India</center>
 

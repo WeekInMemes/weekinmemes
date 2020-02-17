@@ -26,6 +26,8 @@ and **SPOILER ALERT**
 
 ![](img/modi-iron-throne.png)
 
+{{< adsense-midarticle >}}
+
 ## JCB Memes
 
 To be honest, no one really knows. What we do know is that Indians are fascinated by the yellow digging machines, specifically the ubiquitous ones sold under the JCB brand. It's like mineral water is 'Bisleri' or photocopy is 'Xerox' in India, these machines are now JCB.

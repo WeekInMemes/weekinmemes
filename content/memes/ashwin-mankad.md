@@ -18,6 +18,8 @@ On Mar 25, 2019, in the IPL match between King's XI Punjab and Rajasthan Royals,
 
 ![R Ashwin Mankads Jos Butler](img/templates/ashwin-mankad.jpg)
 
+{{< adsense-midarticle >}}
+
 ## Memes
 
 Check out some of the popular memes on the topic:

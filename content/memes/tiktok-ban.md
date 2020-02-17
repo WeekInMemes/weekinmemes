@@ -14,6 +14,8 @@ On Apr 17, 2019, the popular video sharing app TikTok was taken off Google Play 
 <!--more-->
 Unfortunately, the ban put a premature end to the app's foray into India's internet space. The aforementioned users who mocked the cringeworthy content found this to be a reason to celebrate by sharing some of their 'favorite' TikTok posts.
 
+{{< adsense-midarticle >}}
+
 ## Memes
 
 Check out some of the popular memes on the topic:

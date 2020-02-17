@@ -33,6 +33,8 @@ After the clip became viral, Twitter users got to making memes explaining their 
 ![Ananya Panday Maine Bohot Struggle Kiya Hai](img/templates/siddhant-chaturvedi-ananya-panday-nepotism-struggle.jpg)
 <center>Maine Bohot Struggle Kiya Hai</center>
 
+{{< adsense-midarticle >}}
+
 ![Siddhant Chaturvedi Jahaan Hamaare Sapne Poore Hote Hai Waha Inka Struggle Shuru Hota Hai](img/templates/siddhant-chaturvedi-ananya-panday-nepotism-sapne.jpg)
 <center>Jahaan Hamaare Sapne Poore Hote Hai Waha Inka Struggle Shuru Hota Hai</center>
 

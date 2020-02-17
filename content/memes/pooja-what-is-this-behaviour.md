@@ -48,16 +48,8 @@ Another user [@rukhsxr_](https://twitter.com/rukhsxr_) made a thread of all of P
 
 Go watch the entire thread. I have no words to describe it. There seems to be a pattern in this behaviour that might do wih some help. Like [this article](https://economictimes.indiatimes.com/magazines/panache/banned-from-the-house-because-i-am-single-says-former-bigg-boss-contestant-pooja-misrra/articleshow/50545977.cms) that talks about how residents of the building she was living in also didn't like her behaviour.
 
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-3528204728669125"
-     data-ad-slot="7478387153"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+
+{{< adsense-midarticle >}}
 
 ## Template
 

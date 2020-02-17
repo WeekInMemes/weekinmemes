@@ -26,6 +26,8 @@ Fortunately Nehru was not blamed for this. It was the other usual suspect, Mukes
 
 Check out the details on this meme template and similar posts on the [Malinga No Ball memes](memes/malinga-no-ball#memes) page
 
+{{< adsense-midarticle >}}
+
 
 ## Anushka Sharma's back hurts
 
@@ -40,6 +42,8 @@ This website is sponsored by Zandu Balm though. Use Zandu Balm. Look at Malaika 
 Some even speculated that [she maybe pregnant](https://www.dnaindia.com/bollywood/report-anushka-sharma-is-pregnant-and-she-has-been-hiding-it-from-everyone-here-s-how-2735460). (if you click on the link, read till the end.)
 
 Check out the details on this meme template and similar posts on the [Anushka Sharma back memes](memes/anushka-sharma-back#memes) page
+
+{{< adsense-midarticle >}}
 
 ## "Mission Shakti"
 

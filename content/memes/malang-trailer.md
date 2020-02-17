@@ -33,6 +33,8 @@ Bollywood needed another action movie with sculpted bodies after War (minus all 
 ![Aditya Roy Kapur in Malang Trailer Murder Report Karna Hai Sir](img/templates/malang-trailer-murder.jpg)
 <center>Murder Report Karna Hai Sir</center>
 
+{{< adsense-midarticle >}}
+
 ![Disha Patani in Malang Trailer Humein Life Mein Freedom Chahiye. Na Koi Rokne Wala, Na Koi Tokne Wala](img/templates/malang-trailer-freedom.jpg)
 <center>Humein Life Mein Freedom Chahiye. Na Koi Rokne Wala, Na Koi Tokne Wala</center>
 

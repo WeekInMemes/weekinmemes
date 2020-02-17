@@ -18,6 +18,8 @@ Or comparing his Dhai Kilo ka Haath to Congress symbol, also from Damini
 
 ![](img/sunny-deol-bjp/sunny-deol-bjp-haath.png)
 
+{{< adsense-midarticle >}}
+
 
 ## Memes
 

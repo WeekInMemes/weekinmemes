@@ -25,6 +25,8 @@ Back home, Vivek Oberoi is in the news again... for the only reason that makes s
 Of course, he deleted it later but not before he had pissed off all of Bollywood AND all political parties. Looks like he's on his own again. 
 
 
+{{< adsense-midarticle >}}
+
 ## Modi Cloud vs. Radar
 
 In an exclusive interview to The News Nation, Prime Minister Narendra Modi was asked about the Balakot Air Strikes against Pakistan. He mentioned that bad weather and clouds in particular could help planes hide from radars. What followed was memes about this statement on how clouds benefit in all other walks of life such as...
@@ -32,6 +34,8 @@ In an exclusive interview to The News Nation, Prime Minister Narendra Modi was a
 ![](img/modi-cloud-radar/modi-cloud-radar-pakode.png)
 
 Check out the details on this meme template and similar posts on the [Modi Cloud vs. Radar memes](memes/modi-cloud-radar#memes) page
+
+{{< adsense-midarticle >}}
 
 ## Priyanka Chopra at Met Gala
 

@@ -23,6 +23,8 @@ Tiger Shroff is seen flying 22 times in the 3 minute trailer (I didn't count. On
 
 Check out the details on this meme template and similar posts on the [Student of the Year 2 Trailer memes](memes/student-of-the-year-2-trailer#memes) page
 
+{{< adsense-midarticle >}}
+
 
 ## Tiktok Ban
 

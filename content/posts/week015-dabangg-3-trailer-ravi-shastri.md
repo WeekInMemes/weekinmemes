@@ -15,6 +15,8 @@ In terms of funding, now you can tip Week In Memes from India if you install the
 
 Coming to the memes, Salman Khan is back. 
 
+{{< adsense-midarticle >}}
+
 ## Dabangg 3 Trailer
 
 Last week I told my friends that I would not watch the Dabangg 3 trailer but here we are...
@@ -26,6 +28,8 @@ The Dabangg 3 trailer released on Oct 23, 2019. If you guessed it would have unr
 ![](img/dabangg-3-trailer/dabangg-3-trailer-000.png)
 
 Check out the details on this and similar posts on the [Dabangg 3 Trailer memes](memes/dabangg-3-trailer#memes) page
+
+{{< adsense-midarticle >}}
 
 ## Ravi Shastri napping
 

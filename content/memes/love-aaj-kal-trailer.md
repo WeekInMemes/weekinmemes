@@ -27,6 +27,8 @@ The first look and trailer received mixed reactions but the memes were received 
 ![Tum mujhe tang karne lage ho](img/templates/love-aaj-kal-trailer-sara-ali-khan.jpg)
 <center>Tum mujhe tang karne lage ho</center>
 
+{{< adsense-midarticle >}}
+
 ![Aana toh puri tarah aana ya to aana hi mat](img/templates/love-aaj-kal-trailer-kartik-aryan.jpg)
 <center>Aana toh puri tarah aana ya to aana hi mat</center>
 

@@ -27,6 +27,8 @@ The group was created on May 22, 2019 and as of June 12, 2019, the group has 47,
 
 ![Akshay Kumar Phir Hera Pheri Pose](img/templates/akshay-kumar-scheme-pose.png)
 
+{{< adsense-midarticle >}}
+
 ![Akshay Kumar Phir Hera Pheri Bhai Paisa Ho To Kya Kuch Nahi Ho Sakta](img/templates/akshay-kumar-scheme-paisa-ho-to-with-text.png)
 <center>Bhai Paisa Ho To Kya Kuch Nahi Ho Sakta</center>
 
@@ -40,6 +42,8 @@ The group was created on May 22, 2019 and as of June 12, 2019, the group has 47,
 
 ![Akshay Kumar Deewane Huye Paagal Haan Maloom Hai Chal Apne Baap Ko Mat Sikha](img/templates/akshay-kumar-scheme-baap-with-text.png)
 <center>Haan Maloom Hai Chal Apne Baap Ko Mat Sikha</center>
+
+{{< adsense-midarticle >}}
 
 ### Mujhse Shaadi Karogi
 

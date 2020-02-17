@@ -20,6 +20,8 @@ This led to an onslaught of trolling targeted at Kangana.
 
 {{< youtube nSGyJqdi6iY >}}
 
+{{< adsense-midarticle >}}
+
 ## Memes
 
 Check out some of the popular memes on the topic:

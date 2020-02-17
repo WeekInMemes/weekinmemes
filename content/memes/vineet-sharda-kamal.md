@@ -16,6 +16,8 @@ Twitter user [@Benarasiyaa](https://twitter.com/Benarasiyaa) shared the clip whi
 
 {{< tweet 1113030245911748609 >}}
 
+{{< adsense-midarticle >}}
+
 ## Memes
 
 A twitter user [@Fekoslovakian](https://twitter.com/Fekoslovakian/) matched the audio to Hitler's speech.

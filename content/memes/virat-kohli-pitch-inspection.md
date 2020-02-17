@@ -26,6 +26,9 @@ HR Department on Diwali:
 
 ![Virat Kohli Pitch Inspection at Guwahati before India vs. Sri Lanka](img/templates/virat-kohli-pitch-inspection.jpg)
 
+{{< adsense-midarticle >}}
+
+
 ## Memes
 
 Check out some of the popular memes on the topic:

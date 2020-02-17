@@ -31,6 +31,8 @@ The line "Aap Chronology Samajhiye" has since then become a meme.
 
 <center>Aap Chronology Samajhiye</center>
 
+{{< adsense-midarticle >}}
+
 ## Memes
 
 Check out some of the popular memes on the topic:

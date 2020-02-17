@@ -21,6 +21,8 @@ With millions of viewers watching live, lots of them could relate to the pose:
 
 ![Yuzvendra Chahal Chilling](img/templates/chahal-chilling.jpg)
 
+{{< adsense-midarticle >}}
+
 ## Memes
 
 Check out some of the popular memes on the topic:

@@ -16,6 +16,8 @@ On Mar 06, 2019, documents containing details of the deal between the Indian gov
 
 Twitter went into overdrive digging out old images of Nehru to blame him for this latest mischief.
 
+{{< adsense-midarticle >}}
+
 ## Memes
 
 Check out some of the popular memes on the topic:

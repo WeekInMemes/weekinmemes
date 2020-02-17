@@ -39,6 +39,8 @@ Director, Aditya Dhar explained the origin in [this interview](https://www.msn.c
 ![Vicky Kaushal in Uri How's The Josh?](img/templates/hows-the-josh-with-text.jpg)
 <center>How's The Josh?</center>
 
+{{< adsense-midarticle >}}
+
 ![Vicky Kaushal in Uri How's The Josh?](img/templates/hows-the-josh2-with-text.jpg)
 <center>How's The Josh?</center>
 

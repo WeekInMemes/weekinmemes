@@ -9,6 +9,7 @@ showthedate = true
 hidden = true
 +++
 
+{{< adsense-midarticle >}}
 
 ---
 \- DK

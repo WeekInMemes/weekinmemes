@@ -21,6 +21,8 @@ Modi's #MainBhiChowkidar campaign reminded some of this classic ad:
 
 Check out the details on this meme template and similar posts on the [Main Bhi Chowkidar memes](memes/main-bhi-chowkidar#memes) page
 
+{{< adsense-midarticle >}}
+
 ## Vivek Oberoi as Modi
 
 Vivek Oberoi who is best known for his press conference against Salman Khan plays Narendra Modi in a new biopic on India's Prime Minister (who incidentally has not held a single press conference during his tenure). The irony was not lost on Twitter at all.
@@ -28,6 +30,8 @@ Vivek Oberoi who is best known for his press conference against Salman Khan play
 {{< tweet 1108698876146565121 >}}
 
 Check out the details on this meme template and similar posts on the [Vivek Oberoi as Modi memes](memes/vivek-oberoi-modi#memes) page
+
+{{< adsense-midarticle >}}
 
 ## Ashwin Mankads Jos Butler
 

@@ -29,6 +29,8 @@ The common theme among all memes is of someone making a tall claim which is put 
 ![Akshay Kumar in Kesari trailer Chal Jhootha](img/templates/kesari-trailer-chal-jhootha-template.jpg)
 <center>Chal Jhootha</center>
 
+{{< adsense-midarticle >}}
+
 ## Memes
 
 Check out some of the popular memes on the topic:

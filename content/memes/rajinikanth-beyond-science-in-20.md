@@ -26,6 +26,8 @@ The meme is used as a response to impossible or puzzling situations. Like this p
 ![Rajinikanth in 2.0 This is Beyind Science](img/templates/rajinikanth-beyond-science-20.jpg)
 <center>This is Beyind Science</center>
 
+{{< adsense-midarticle >}}
+
 ## Memes
 
 Check out some of the popular memes on the topic:

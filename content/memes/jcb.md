@@ -44,6 +44,8 @@ Another theory is that it started with Sunny Leone, who knows
 
 ![JCB Ki Khudayi](img/templates/jcb.jpg)
 
+{{< adsense-midarticle >}}
+
 ## Memes
 
 Check out some of the popular memes on the topic:

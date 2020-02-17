@@ -30,6 +30,8 @@ This clip was picked up later by Twitter user [@Le_Sabre54](https://twitter.com/
 ![GD Bakshi Ye Koi Randikhana Hai?](img/templates/gd-bakshi-randikhana.gif)
 <center>Ye Koi Randikhana Hai?</center>
 
+{{< adsense-midarticle >}}
+
 ![GD Bakshi Ye Koi Randikhana Hai?](img/templates/gd-bakshi-randikhana.jpg)
 <center>Ye Koi Randikhana Hai?</center>
 

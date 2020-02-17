@@ -29,6 +29,8 @@ Sarfaraz' views on the subject:
 
 ![Sarfaraz Ahmed yawning](img/templates/sarfaraz-yawn.jpg)
 
+{{< adsense-midarticle >}}
+
 ## Memes
 
 Check out some of the popular memes on the topic:

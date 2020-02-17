@@ -28,6 +28,8 @@ Some of the dialogues that made it to memes:
 ![Alia Bhatt in Kalank Trailer Mere paas khone ko kuch nahi hai](img/templates/kalank-trailer-alia-bhatt-mere-paas-khone-ko-kuch-hai-nahi-with-text.jpg)
 <center>Mere paas khone ko kuch nahi hai</center>
 
+{{< adsense-midarticle >}}
+
 ![Aditya Roy Kapoor in Kalank Trailer Is rishte mein izzat hogi pyaar nahi](img/templates/kalank-trailer-alia-bhatt-aditya-roy-kapoor-iss-rishte-mein-with-text.jpg)
 <center>Is rishte mein izzat hogi pyaar nahi</center>
 

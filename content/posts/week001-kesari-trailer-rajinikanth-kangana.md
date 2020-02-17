@@ -24,6 +24,7 @@ Watch the trailer here:
 
 Check out the details on this meme template and similar posts on the [Kesari Trailer memes](memes/akshay-kumar-kesari-trailer#memes) page
 
+{{< adsense-midarticle >}}
 
 ## Rajinikanth Beyond Science
 
@@ -36,6 +37,8 @@ This meme is not exactly new. It has been used before, including one time by Mum
 {{< tweet 1041588618152878081 >}}
 
 Check out the details on this meme template and similar posts on the [Rajinikanth Beyond Science in 2.0 memes](memes/rajinikanth-beyond-science-in-20#memes) page
+
+{{< adsense-midarticle >}}
 
 ## Kangana Ranaut on a Fake Horse in Manikarnika
 

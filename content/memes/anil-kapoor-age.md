@@ -26,6 +26,8 @@ Let's hear it from the man himself what he thinks of all the memes:
 
 ![Anil Kapoor with Malang starcast](img/templates/anil-kapoor-malang.jpg)
 
+{{< adsense-midarticle >}}
+
 ## Memes
 
 Check out some of the popular memes on the topic:

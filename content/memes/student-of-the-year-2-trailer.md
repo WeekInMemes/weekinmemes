@@ -31,11 +31,15 @@ Here is a thread of all instances of Tiger Shroff in the air in the Student of T
 
 ![Student Of The Year 2 Tara Sutaria](img/templates/student-of-the-year-2-tara-sutaria.jpg)
 
+{{< adsense-midarticle >}}
+
 ![Student Of The Year 2 Tiger Shroff](img/templates/student-of-the-year-2-tiger-shroff.jpg)
 
 ![Student Of The Year 2 Tiger Shroff Entering](img/templates/student-of-the-year-2-tiger-shroff-entering.jpg)
 
 ![Student Of The Year 2 Tiger Shroff Leaving](img/templates/student-of-the-year-2-tiger-shroff-leaving.jpg)
+
+{{< adsense-midarticle >}}
 
 ![Student Of The Year 2 Tiger Shroff Flying](img/templates/student-of-the-year-2-tiger-shroff-flying.png)
 

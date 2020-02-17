@@ -19,6 +19,8 @@ Since the movie Uri released on Jan 11, 2019, the line "How's The Josh?" has bec
 
 Check out the details on this meme template and similar posts on the [How's The Josh memes](memes/hows-the-josh#memes) page
 
+{{< adsense-midarticle >}}
+
 
 ## Donald Trump Malhari
 
@@ -31,6 +33,8 @@ This tweet has been retweeted 6k+ times
 This isn't a new meme. The gif from Malhari has become a popular 'celebration' among the reddit and especially the bitcoin community. 
 
 Check out the details on this meme template and similar posts on the [Malhari GIF](memes/malhari-gif#memes) page
+
+{{< adsense-midarticle >}}
 
 ## GD Bakshi
 

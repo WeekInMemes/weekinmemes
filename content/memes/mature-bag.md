@@ -26,6 +26,8 @@ Some twitter users found the TikTok video cringeworthy and started making memes 
 
 ![Mature Bag](img/templates/mature-bag.jpg)
 
+{{< adsense-midarticle >}}
+
 
 ## Memes
 

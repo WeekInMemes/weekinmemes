@@ -21,6 +21,8 @@ Karan Johar's latest movie Kalank starring Sunil Dutt's son, Mahesh Bhatt's daug
 
 Check out the details on this meme template and similar posts on the [Kalank Trailer memes](memes/kalank-trailer#memes) page
 
+{{< adsense-midarticle >}}
+
 
 ## Kamal Kamal Kamal Kamal
 
@@ -29,6 +31,8 @@ If I ever become a politician, I would want this person to act as my cheerleader
 ![](img/vineet-sharda-kamal-dasavataram.png)
 
 Check out the details on this meme template and similar posts on the [Vineet Sharda Kamal](memes/vineet-sharda-kamal#memes) page
+
+{{< adsense-midarticle >}}
 
 ## Vikrant Massey Criminal Justice
 

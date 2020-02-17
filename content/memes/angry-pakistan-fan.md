@@ -20,6 +20,8 @@ In the highlights video uploaded by ICC for the match, you can see the dropped c
 
 ![Angry Pakistan Fan](img/templates/angry-pakistan-fan.png)
 
+{{< adsense-midarticle >}}
+
 ## Memes
 
 Check out some of the popular memes on the topic:

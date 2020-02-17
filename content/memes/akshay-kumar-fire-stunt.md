@@ -28,6 +28,8 @@ The best response was from Akshay Kumar's wife, Twinkle Khanna saying she is goi
 
 ![Akshay Kumar burning for Amazon Prime The End](img/templates/akshay-kumar-fire.jpg)
 
+{{< adsense-midarticle >}}
+
 ## Memes
 
 Check out some of the popular memes on the topic:

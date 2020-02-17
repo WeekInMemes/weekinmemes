@@ -23,6 +23,8 @@ That catch led to memes like this:
 
 ![Rohit Sharma Catch](img/templates/rohit-sharma-catch.jpg)
 
+{{< adsense-midarticle >}}
+
 ## Memes
 
 Check out some of the popular memes on the topic:

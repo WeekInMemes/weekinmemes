@@ -28,6 +28,8 @@ Or this one *Mujhe ahbi tak nahi pata kaise karenge par karenge sir, karna hi ho
 
 Check out the details on this meme template and similar posts on the [Mission Mangal Trailer memes](memes/mission-mangal-trailer#memes) page.
 
+{{< adsense-midarticle >}}
+
 ## Mature Bag
 
 On July 10, 2019, TikTok user @style_centric posted a video with recommendations on "How to look attractive" in college. One of the suggestions was to wear a "Mature Bag". 

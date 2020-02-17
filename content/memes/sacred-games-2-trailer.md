@@ -33,6 +33,8 @@ Pankaj Tripathi's dialogue "Balidan Dena Hoga" *(translation: Sacrifices must be
 
 ![Nawazuddin Siddiqui in Sacred Games 2](img/templates/sacred-games-2-trailer-nawazuddin.png)
 
+{{< adsense-midarticle >}}
+
 ![Nawazuddin Siddiqui in Sacred Games 2 Corporate](img/templates/sacred-games-2-trailer-nawazuddin2.png)
 
 ## Memes

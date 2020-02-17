@@ -26,6 +26,8 @@ In the video, the man, named Pawan Sahu goes from exhilaration to desperation pr
 ![Paragliding Video Main Madarchod Hoon Jo Isme Aaya](img/templates/paragliding-video-madarchod.jpg)
 <center>Main Madarchod Hoon Jo Isme Aaya</center>
 
+{{< adsense-midarticle >}}
+
 ![Paragliding Video 500 zyada lele par land kara de](img/templates/paragliding-video-500.jpg)
 <center>500 zyada lele par land kara de</center>
 

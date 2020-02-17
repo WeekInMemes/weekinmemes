@@ -30,6 +30,8 @@ or Prakash Belavadi saying "wo agar hume mil jaye to" reminded of the one side l
 ![Murli Sharma in Saaho Trailer Content sahi hota hai lekin visuals bahot disturbing](img/templates/saaho-trailer-content-visuals.jpg)
 <center>Content sahi hota hai lekin visuals bahot disturbing</center>
 
+{{< adsense-midarticle >}}
+
 ![Prakash Belavadi in Saaho Trailer wo agar hume mil jaye to](img/templates/saaho-trailer-mil-jaye.jpg)
 <center>Wo agar hume mil jaye to</center>
 

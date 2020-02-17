@@ -24,6 +24,8 @@ This Pakistan fan at the World Cup had just about enough with their team's perfo
 
 Check out the details on this meme template and similar posts on the [Angry Pakistan Fan memes](memes/angry-pakistan-fan#memes) page.
 
+{{< adsense-midarticle >}}
+
 ## Imran Tahir's celebration
 
 South African bowler, Imran Tahir is known for his over-the-top celebrations after taking a wicket. He did it again during the World Cup match against (obviously) Pakistan on Jun 23, 2019. Just watch his celebration:
@@ -31,6 +33,8 @@ South African bowler, Imran Tahir is known for his over-the-top celebrations aft
 {{< tweet 1143533959130861568 >}}
 
 Check out the details on this meme template and similar posts on the [Imran Tahir Celebration memes](memes/imran-tahir-celebration#memes) page.
+
+{{< adsense-midarticle >}}
 
 ## Sarfaraz Ahmed yawning
 

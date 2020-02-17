@@ -24,6 +24,8 @@ Watch the trailer here:
 ![Mera Gujarat Jal Raha Hai](img/templates/vivek-oberoi-modi-gujarat-jal-raha-hai-with-text.jpg)
 <center>Mera Gujarat Jal Raha Hai</center>
 
+{{< adsense-midarticle >}}
+
 ![Vivek Oberoi As PM Narendra Modi Hum Hindustani Nahi Ban Paaye](img/templates/vivek-oberoi-modi-hindustani-with-text.png)
 <center>Hum Hindustani Nahi Ban Paaye</center>
 

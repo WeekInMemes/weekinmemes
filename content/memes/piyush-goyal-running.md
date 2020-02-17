@@ -22,6 +22,8 @@ Twitter found it quite amusing. OpIndia decided to find the positives in the eve
 
 ![Piyush Goyal Running](img/templates/piyush-goyal-running.jpg)
 
+{{< adsense-midarticle >}}
+
 ## Memes
 
 Check out some of the popular memes on the topic:

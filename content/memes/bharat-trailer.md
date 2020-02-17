@@ -26,6 +26,8 @@ Katrina Kaif's line "Itne bhaari gyaan ki zaroorat blikul nahi hai" (*translatio
 ![Katrina Kaif in Bharat Trailer Itne bhaari gyaan ki zaroorat blikul nahi hai](img/templates/bharat-trailer-katrina-kaif-gyaan-with-text.jpg)
 <center>Itne bhaari gyaan ki zaroorat blikul nahi hai</center>
 
+{{< adsense-midarticle >}}
+
 ## Memes
 
 Check out some of the popular memes on the topic:

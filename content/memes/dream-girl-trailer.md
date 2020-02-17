@@ -28,6 +28,8 @@ A line by Vijay Raaz "Dono Alag Alag Hote Hai Kya?" resonated with Twitter users
 ![Vijay Raaz in Dream Girl trailer Dono Alag Alag Hote Hai?](img/templates/dream-girl-trailer-alag-alag-vijay-raaz.jpg)
 <center>Dono Alag Alag Hote Hai?</center>
 
+{{< adsense-midarticle >}}
+
 ## Memes
 
 Check out some of the popular memes on the topic:

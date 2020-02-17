@@ -27,6 +27,8 @@ I can't believe I just wrote all of that. Please watch the entire video for more
 
 ![Sasural Simar Ka Curtain Scene](img/templates/sasural-simar-ka-curtain.gif)
 
+{{< adsense-midarticle >}}
+
 ## Memes
 
 Check out some of the popular memes on the topic:

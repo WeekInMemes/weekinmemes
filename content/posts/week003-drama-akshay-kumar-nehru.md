@@ -19,6 +19,8 @@ There's nothing like Indian soap operas. The overacting, the black-and-white ima
 
 Check out the details on this meme template and similar posts on the [Sasural Simar Ka Curtain Scene Memes](memes/sasural-simar-ka-curtain#memes) page
 
+{{< adsense-midarticle >}}
+
 ## Akshay Kumar is on fire
 
 25 years ago, Akshay Kumar danced with Raveena Tandon to the lyrics "Tip Tip Barsa Paani, Paani Ne Aage Lagayi". Last week it finally happened. His wife was clearly not impressed. The reaction might have been worse if it was Raveena Tandon's fault again though. :grin:
@@ -33,6 +35,8 @@ Smriti Irani shared this meme on her instagram summarizing Abhinandan's stay in 
 
 {{< instagram BuprtPBA01t >}}
 
+
+{{< adsense-midarticle >}}
 
 ## Nehru stole the Rafale files
 

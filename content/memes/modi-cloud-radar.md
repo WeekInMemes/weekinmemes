@@ -30,6 +30,8 @@ The comment occurs at 26:25 mark. The relevant part is in this video:
 ![Narendra Modi Maine Kaha Cloud Hai Baarish Ho Rahi Hai. Benefit Kar Sakte Hai](img/templates/modi-cloud-radar-with-text.png)
 <center>Maine Kaha Cloud Hai Baarish Ho Rahi Hai. Benefit Kar Sakte Hai</center>
 
+{{< adsense-midarticle >}}
+
 ## Memes
 
 Check out some of the popular memes on the topic:
