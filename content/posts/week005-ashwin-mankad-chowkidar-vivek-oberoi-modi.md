@@ -37,7 +37,7 @@ Check out the details on this meme template and similar posts on the [Vivek Ober
 
 In Lagaan, Tipu was run out for backing up too much while at non-striker's end. 150 years later, Ashwin managed to avenge him by using the same Mankad technique to run out England batsman Jos Butler. 
 
-{{< tweet 1110238947978940417 >}}
+< Tweet has since been deleted >
 
 Bonus points for using this against the smug-faced Piers Morgan.
 
