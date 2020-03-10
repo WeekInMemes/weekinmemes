@@ -1,1 +1,0 @@
-{"index_name": "docsearch", "start_urls": ["https://weekinmemes.com/"], "selectors": {"lvl0": "title", "lvl1": "h1", "lvl2": "h2", "lvl3": "h3", "text": "p"}}

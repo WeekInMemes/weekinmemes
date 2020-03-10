@@ -2,7 +2,7 @@
 var index;
 
 function get_index(){
-  var start_time = Date.now()
+  var start_time = Date.now();
   $.getJSON("/index.json", function(json) {
       index = elasticlunr(function () {
       this.addField('title');
@@ -17,17 +17,17 @@ function get_index(){
      }
    });
 });
-console.log('Indexing done in ' + (Date.now() - start_time) + ' ms')
+console.log('Indexing done in ' + (Date.now() - start_time) + ' ms');
 };
 
 get_index();
 display_results = function(){
   $('#search-results').empty();
-  var search_term = window.location.search.substring(3).split('+').join(" ")
+  var search_term = window.location.search.substring(3).split('+').join(" "); // text after ?q= separated by +
   var results = index.search(search_term, {
       fields: {
           title: {boost: 3},
-          description: {boost: 2},
+          tags: {boost: 2},
           content: {boost: 1}
       }
   });
