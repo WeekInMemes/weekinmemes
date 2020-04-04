@@ -48,7 +48,7 @@ Twitter user [@twinitisha](https://twitter.com/twinitisha) shared a behind the s
 
 The replies, as usual, trolled the actress mercilessly. Like this one with a throwback to the classic 2007 movie, Welcome.
 
-{{< tweet 1098522118982172673 >}}
+[tweet has since been deleted]
 
 
 Check out the details on this meme template and similar posts on the [Kangana Ranaut on a Fake Horse in Manikarnika memes](memes/kangana-ranaut-fake-horse#memes) page

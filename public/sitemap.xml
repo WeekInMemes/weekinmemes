@@ -1,65 +1,90 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://weekinmemes.com/tags/coronavirus/</loc>
+    <lastmod>2020-04-04T06:04:52-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://weekinmemes.com/tags/doordarshan/</loc>
+    <lastmod>2020-04-04T06:04:52-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://weekinmemes.com/memes/</loc>
+    <lastmod>2020-04-04T06:04:52-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://weekinmemes.com/tags/netflix/</loc>
+    <lastmod>2020-04-04T06:04:52-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://weekinmemes.com/tags/quarantine/</loc>
+    <lastmod>2020-04-04T06:04:52-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://weekinmemes.com/tags/ramayana/</loc>
+    <lastmod>2020-04-04T06:04:52-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://weekinmemes.com/memes/ramayana/</loc>
+    <lastmod>2020-04-04T06:04:52-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://weekinmemes.com/tags/</loc>
+    <lastmod>2020-04-04T06:04:52-05:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://weekinmemes.com/tags/ajay-devgn/</loc>
     <lastmod>2020-03-03T21:21:18-06:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://weekinmemes.com/tags/bollywood/</loc>
     <lastmod>2020-03-03T21:21:18-06:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://weekinmemes.com/tags/jackie-shroff/</loc>
     <lastmod>2020-03-03T21:21:18-06:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://weekinmemes.com/tags/katrina-kaif/</loc>
     <lastmod>2020-03-03T21:21:18-06:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://weekinmemes.com/memes/</loc>
-    <lastmod>2020-03-03T21:21:18-06:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://weekinmemes.com/tags/ranveer-singh/</loc>
     <lastmod>2020-03-03T21:21:18-06:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://weekinmemes.com/tags/rohit-shetty/</loc>
     <lastmod>2020-03-03T21:21:18-06:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://weekinmemes.com/tags/simmba/</loc>
     <lastmod>2020-03-03T21:21:18-06:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://weekinmemes.com/tags/singham/</loc>
     <lastmod>2020-03-03T21:21:18-06:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://weekinmemes.com/tags/sooryavanshi/</loc>
     <lastmod>2020-03-03T21:21:18-06:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -68,27 +93,13 @@
   </url>
   
   <url>
-    <loc>https://weekinmemes.com/tags/</loc>
-    <lastmod>2020-03-03T21:21:18-06:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://weekinmemes.com/</loc>
-    <lastmod>2020-03-03T21:21:18-06:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://weekinmemes.com/tags/kartik-aryan/</loc>
     <lastmod>2020-02-16T22:40:52-06:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://weekinmemes.com/tags/love-aaj-kal/</loc>
     <lastmod>2020-02-16T22:40:52-06:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -99,91 +110,76 @@
   <url>
     <loc>https://weekinmemes.com/tags/sara-ali-khan/</loc>
     <lastmod>2020-02-16T22:40:52-06:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://weekinmemes.com/tags/aditya-roy-kapur/</loc>
     <lastmod>2020-02-16T22:40:52-06:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://weekinmemes.com/tags/ananya-panday/</loc>
     <lastmod>2020-02-16T22:40:52-06:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://weekinmemes.com/tags/anil-kapoor/</loc>
     <lastmod>2020-02-16T22:40:52-06:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://weekinmemes.com/tags/bcci/</loc>
     <lastmod>2020-02-16T22:40:52-06:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://weekinmemes.com/tags/cricket/</loc>
     <lastmod>2020-02-16T22:40:52-06:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://weekinmemes.com/tags/disha-patani/</loc>
     <lastmod>2020-02-16T22:40:52-06:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://weekinmemes.com/tags/guwahati/</loc>
     <lastmod>2020-02-16T22:40:52-06:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://weekinmemes.com/tags/india/</loc>
     <lastmod>2020-02-16T22:40:52-06:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://weekinmemes.com/tags/malang/</loc>
     <lastmod>2020-02-16T22:40:52-06:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://weekinmemes.com/tags/nepotism/</loc>
     <lastmod>2020-02-16T22:40:52-06:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://weekinmemes.com/posts/</loc>
     <lastmod>2020-02-16T22:40:52-06:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://weekinmemes.com/tags/siddhant-chaturvedi/</loc>
     <lastmod>2020-02-16T22:40:52-06:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://weekinmemes.com/tags/sri-lanka/</loc>
     <lastmod>2020-02-16T22:40:52-06:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://weekinmemes.com/tags/virat-kohli/</loc>
     <lastmod>2020-02-16T22:40:52-06:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -209,7 +205,6 @@
   <url>
     <loc>https://weekinmemes.com/tags/bjp/</loc>
     <lastmod>2020-02-16T22:40:52-06:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -220,19 +215,16 @@
   <url>
     <loc>https://weekinmemes.com/tags/narendra-modi/</loc>
     <lastmod>2020-02-16T22:40:52-06:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://weekinmemes.com/tags/politics/</loc>
     <lastmod>2020-02-16T22:40:52-06:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://weekinmemes.com/tags/amit-shah/</loc>
     <lastmod>2020-02-16T22:40:52-06:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -243,25 +235,21 @@
   <url>
     <loc>https://weekinmemes.com/tags/caa/</loc>
     <lastmod>2020-02-16T22:40:52-06:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://weekinmemes.com/tags/cab/</loc>
     <lastmod>2020-02-16T22:40:52-06:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://weekinmemes.com/tags/nrc/</loc>
     <lastmod>2020-02-16T22:40:52-06:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://weekinmemes.com/tags/piyush-goyal/</loc>
     <lastmod>2020-02-16T22:40:52-06:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -277,13 +265,11 @@
   <url>
     <loc>https://weekinmemes.com/tags/bangladesh/</loc>
     <lastmod>2020-02-16T22:40:52-06:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://weekinmemes.com/tags/rohit-sharma/</loc>
     <lastmod>2020-02-16T22:40:52-06:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -294,19 +280,16 @@
   <url>
     <loc>https://weekinmemes.com/tags/jayalalithaa/</loc>
     <lastmod>2020-02-16T22:40:52-06:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://weekinmemes.com/tags/kangana-ranaut/</loc>
     <lastmod>2020-02-16T22:40:52-06:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://weekinmemes.com/tags/thalaivi/</loc>
     <lastmod>2020-02-16T22:40:52-06:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -322,19 +305,16 @@
   <url>
     <loc>https://weekinmemes.com/tags/arnab-goswami/</loc>
     <lastmod>2020-02-16T22:40:52-06:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://weekinmemes.com/tags/baba-ramdev/</loc>
     <lastmod>2020-02-16T22:40:52-06:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://weekinmemes.com/tags/patanjali/</loc>
     <lastmod>2020-02-16T22:40:52-06:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -345,43 +325,36 @@
   <url>
     <loc>https://weekinmemes.com/tags/republic/</loc>
     <lastmod>2020-02-16T22:40:52-06:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://weekinmemes.com/tags/arjun-kapoor/</loc>
     <lastmod>2020-02-16T22:40:52-06:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://weekinmemes.com/tags/ashutosh-gowariker/</loc>
     <lastmod>2020-02-16T22:40:52-06:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://weekinmemes.com/tags/bajirao-mastani/</loc>
     <lastmod>2020-02-16T22:40:52-06:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://weekinmemes.com/tags/kriti-sanon/</loc>
     <lastmod>2020-02-16T22:40:52-06:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://weekinmemes.com/tags/padmaavat/</loc>
     <lastmod>2020-02-16T22:40:52-06:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://weekinmemes.com/tags/panipat/</loc>
     <lastmod>2020-02-16T22:40:52-06:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -392,13 +365,11 @@
   <url>
     <loc>https://weekinmemes.com/tags/sanjay-dutt/</loc>
     <lastmod>2020-02-16T22:40:52-06:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://weekinmemes.com/tags/ravi-shastri/</loc>
     <lastmod>2020-02-16T22:40:52-06:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -409,7 +380,6 @@
   <url>
     <loc>https://weekinmemes.com/tags/dabangg-3/</loc>
     <lastmod>2020-02-16T22:40:52-06:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -420,25 +390,21 @@
   <url>
     <loc>https://weekinmemes.com/tags/prabhu-deva/</loc>
     <lastmod>2020-02-16T22:40:52-06:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://weekinmemes.com/tags/saiee-manjrekar/</loc>
     <lastmod>2020-02-16T22:40:52-06:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://weekinmemes.com/tags/salman-khan/</loc>
     <lastmod>2020-02-16T22:40:52-06:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://weekinmemes.com/tags/sonakshi-sinha/</loc>
     <lastmod>2020-02-16T22:40:52-06:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -457,9 +423,13 @@
   </url>
   
   <url>
+    <loc>https://weekinmemes.com/</loc>
+    <lastmod>2019-10-28T22:50:05-05:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://weekinmemes.com/tags/paragliding/</loc>
     <lastmod>2020-02-16T22:40:52-06:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -470,25 +440,21 @@
   <url>
     <loc>https://weekinmemes.com/tags/pawan-sahu/</loc>
     <lastmod>2020-02-16T22:40:52-06:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://weekinmemes.com/tags/viral/</loc>
     <lastmod>2020-02-16T22:40:52-06:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://weekinmemes.com/tags/ayushmann-khurrana/</loc>
     <lastmod>2020-02-16T22:40:52-06:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://weekinmemes.com/tags/dream-girl/</loc>
     <lastmod>2020-02-16T22:40:52-06:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -499,37 +465,26 @@
   <url>
     <loc>https://weekinmemes.com/tags/vijay-raaz/</loc>
     <lastmod>2020-02-16T22:40:52-06:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://weekinmemes.com/tags/bunty/</loc>
     <lastmod>2020-02-16T22:40:52-06:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://weekinmemes.com/tags/nawazuddin-siddiqui/</loc>
     <lastmod>2020-02-16T22:40:52-06:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://weekinmemes.com/tags/netflix/</loc>
-    <lastmod>2020-02-16T22:40:52-06:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://weekinmemes.com/tags/pankaj-tripathi/</loc>
     <lastmod>2020-02-16T22:40:52-06:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://weekinmemes.com/tags/sacred-games/</loc>
     <lastmod>2020-02-16T22:40:52-06:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -540,31 +495,26 @@
   <url>
     <loc>https://weekinmemes.com/tags/saif-ali-khan/</loc>
     <lastmod>2020-02-16T22:40:52-06:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://weekinmemes.com/tags/murli-sharma/</loc>
     <lastmod>2020-02-16T22:40:52-06:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://weekinmemes.com/tags/neil-nitin-mukesh/</loc>
     <lastmod>2020-02-16T22:40:52-06:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://weekinmemes.com/tags/prabhas/</loc>
     <lastmod>2020-02-16T22:40:52-06:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://weekinmemes.com/tags/saaho/</loc>
     <lastmod>2020-02-16T22:40:52-06:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -575,13 +525,11 @@
   <url>
     <loc>https://weekinmemes.com/tags/shraddha-kapoor/</loc>
     <lastmod>2020-02-16T22:40:52-06:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://weekinmemes.com/tags/bear-grylls/</loc>
     <lastmod>2020-02-16T22:40:52-06:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -592,25 +540,21 @@
   <url>
     <loc>https://weekinmemes.com/tags/akshay-kumar/</loc>
     <lastmod>2020-02-16T22:40:52-06:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://weekinmemes.com/tags/mature-bag/</loc>
     <lastmod>2020-02-16T22:40:52-06:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://weekinmemes.com/tags/mission-mangal/</loc>
     <lastmod>2020-02-16T22:40:52-06:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://weekinmemes.com/tags/tiktok/</loc>
     <lastmod>2020-02-16T22:40:52-06:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -621,7 +565,6 @@
   <url>
     <loc>https://weekinmemes.com/tags/dalip-tahil/</loc>
     <lastmod>2020-02-16T22:40:52-06:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -632,43 +575,36 @@
   <url>
     <loc>https://weekinmemes.com/tags/nithya-menen/</loc>
     <lastmod>2020-02-16T22:40:52-06:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://weekinmemes.com/tags/sharman-joshi/</loc>
     <lastmod>2020-02-16T22:40:52-06:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://weekinmemes.com/tags/taapsee/</loc>
     <lastmod>2020-02-16T22:40:52-06:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://weekinmemes.com/tags/vidya-balan/</loc>
     <lastmod>2020-02-16T22:40:52-06:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://weekinmemes.com/tags/hrithik-roshan/</loc>
     <lastmod>2020-02-16T22:40:52-06:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://weekinmemes.com/tags/tiger-shroff/</loc>
     <lastmod>2020-02-16T22:40:52-06:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://weekinmemes.com/tags/war/</loc>
     <lastmod>2020-02-16T22:40:52-06:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -689,13 +625,11 @@
   <url>
     <loc>https://weekinmemes.com/tags/cricket-world-cup/</loc>
     <lastmod>2020-02-16T22:40:52-06:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://weekinmemes.com/tags/yuzvendra-chahal/</loc>
     <lastmod>2020-02-16T22:40:52-06:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -716,13 +650,11 @@
   <url>
     <loc>https://weekinmemes.com/tags/pakistan/</loc>
     <lastmod>2020-02-16T22:40:52-06:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://weekinmemes.com/tags/sarfaraz-ahmed/</loc>
     <lastmod>2020-02-16T22:40:52-06:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -733,7 +665,6 @@
   <url>
     <loc>https://weekinmemes.com/tags/imran-tahir/</loc>
     <lastmod>2020-02-16T22:40:52-06:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -744,7 +675,6 @@
   <url>
     <loc>https://weekinmemes.com/tags/south-africa/</loc>
     <lastmod>2020-02-16T22:40:52-06:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -760,7 +690,6 @@
   <url>
     <loc>https://weekinmemes.com/tags/ajnabee/</loc>
     <lastmod>2020-02-16T22:40:52-06:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -771,43 +700,36 @@
   <url>
     <loc>https://weekinmemes.com/tags/deewane-huye-paagal/</loc>
     <lastmod>2020-02-16T22:40:52-06:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://weekinmemes.com/tags/garam-masala/</loc>
     <lastmod>2020-02-16T22:40:52-06:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://weekinmemes.com/tags/mujhse-shaadi-karogi/</loc>
     <lastmod>2020-02-16T22:40:52-06:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://weekinmemes.com/tags/phir-hera-pheri/</loc>
     <lastmod>2020-02-16T22:40:52-06:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://weekinmemes.com/tags/welcome/</loc>
     <lastmod>2020-02-16T22:40:52-06:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://weekinmemes.com/tags/jcb/</loc>
     <lastmod>2020-02-16T22:40:52-06:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://weekinmemes.com/tags/smriti-irani/</loc>
     <lastmod>2020-02-16T22:40:52-06:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -833,7 +755,6 @@
   <url>
     <loc>https://weekinmemes.com/tags/priyanka-chopra/</loc>
     <lastmod>2020-02-16T22:40:52-06:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -844,13 +765,11 @@
   <url>
     <loc>https://weekinmemes.com/tags/grumpy-cat/</loc>
     <lastmod>2020-02-16T22:40:52-06:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://weekinmemes.com/tags/vivek-oberoi/</loc>
     <lastmod>2020-02-16T22:40:52-06:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -861,13 +780,11 @@
   <url>
     <loc>https://weekinmemes.com/tags/bigg-boss/</loc>
     <lastmod>2020-02-16T22:40:52-06:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://weekinmemes.com/tags/pooja-misrra/</loc>
     <lastmod>2020-02-16T22:40:52-06:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -878,7 +795,6 @@
   <url>
     <loc>https://weekinmemes.com/tags/sunny-deol/</loc>
     <lastmod>2020-02-16T22:40:52-06:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -889,7 +805,6 @@
   <url>
     <loc>https://weekinmemes.com/tags/bharat/</loc>
     <lastmod>2020-02-16T22:40:52-06:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -900,13 +815,11 @@
   <url>
     <loc>https://weekinmemes.com/tags/cid/</loc>
     <lastmod>2020-02-16T22:40:52-06:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://weekinmemes.com/tags/daya/</loc>
     <lastmod>2020-02-16T22:40:52-06:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -922,13 +835,11 @@
   <url>
     <loc>https://weekinmemes.com/tags/ahmad-shah/</loc>
     <lastmod>2020-02-16T22:40:52-06:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://weekinmemes.com/tags/cute/</loc>
     <lastmod>2020-02-16T22:40:52-06:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -939,13 +850,16 @@
   <url>
     <loc>https://weekinmemes.com/tags/pathan-ka-bachcha/</loc>
     <lastmod>2020-02-16T22:40:52-06:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://weekinmemes.com/tags/pathan-kid/</loc>
     <lastmod>2020-02-16T22:40:52-06:00</lastmod>
-    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://weekinmemes.com/tags/cringe/</loc>
+    <lastmod>2020-02-16T22:40:52-06:00</lastmod>
   </url>
   
   <url>
@@ -954,21 +868,13 @@
   </url>
   
   <url>
-    <loc>https://weekinmemes.com/tags/cringe/</loc>
-    <lastmod>2020-02-16T22:40:52-06:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://weekinmemes.com/tags/karan-johar/</loc>
     <lastmod>2020-02-16T22:40:52-06:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://weekinmemes.com/tags/student-of-the-year-2/</loc>
     <lastmod>2020-02-16T22:40:52-06:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -979,7 +885,6 @@
   <url>
     <loc>https://weekinmemes.com/tags/tara-sutaria/</loc>
     <lastmod>2020-02-16T22:40:52-06:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -990,19 +895,16 @@
   <url>
     <loc>https://weekinmemes.com/tags/aditya-roy-kapoor/</loc>
     <lastmod>2020-02-16T22:40:52-06:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://weekinmemes.com/tags/alia-bhatt/</loc>
     <lastmod>2020-02-16T22:40:52-06:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://weekinmemes.com/tags/kalank/</loc>
     <lastmod>2020-02-16T22:40:52-06:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -1013,37 +915,31 @@
   <url>
     <loc>https://weekinmemes.com/tags/madhuri-dixit/</loc>
     <lastmod>2020-02-16T22:40:52-06:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://weekinmemes.com/tags/sanhay-dutt/</loc>
     <lastmod>2020-02-16T22:40:52-06:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://weekinmemes.com/tags/varun-dhawan/</loc>
     <lastmod>2020-02-16T22:40:52-06:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://weekinmemes.com/tags/kamal/</loc>
     <lastmod>2020-02-16T22:40:52-06:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://weekinmemes.com/tags/meerut/</loc>
     <lastmod>2020-02-16T22:40:52-06:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://weekinmemes.com/tags/vineet-sharda/</loc>
     <lastmod>2020-02-16T22:40:52-06:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -1054,19 +950,16 @@
   <url>
     <loc>https://weekinmemes.com/tags/criminal-justice/</loc>
     <lastmod>2020-02-16T22:40:52-06:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://weekinmemes.com/tags/hotstar/</loc>
     <lastmod>2020-02-16T22:40:52-06:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://weekinmemes.com/tags/vikrant-massey/</loc>
     <lastmod>2020-02-16T22:40:52-06:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -1082,19 +975,16 @@
   <url>
     <loc>https://weekinmemes.com/tags/ambani/</loc>
     <lastmod>2020-02-16T22:40:52-06:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://weekinmemes.com/tags/ipl/</loc>
     <lastmod>2020-02-16T22:40:52-06:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://weekinmemes.com/tags/lasith-malinga/</loc>
     <lastmod>2020-02-16T22:40:52-06:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -1105,19 +995,16 @@
   <url>
     <loc>https://weekinmemes.com/tags/mumbai-indians/</loc>
     <lastmod>2020-02-16T22:40:52-06:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://weekinmemes.com/tags/royal-challengers-bangalore/</loc>
     <lastmod>2020-02-16T22:40:52-06:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://weekinmemes.com/tags/mission-shakti/</loc>
     <lastmod>2020-02-16T22:40:52-06:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -1128,7 +1015,6 @@
   <url>
     <loc>https://weekinmemes.com/tags/anushka-sharma/</loc>
     <lastmod>2020-02-16T22:40:52-06:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -1139,7 +1025,6 @@
   <url>
     <loc>https://weekinmemes.com/tags/malinga/</loc>
     <lastmod>2020-02-16T22:40:52-06:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -1150,7 +1035,6 @@
   <url>
     <loc>https://weekinmemes.com/tags/chowkidar/</loc>
     <lastmod>2020-02-16T22:40:52-06:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -1166,7 +1050,6 @@
   <url>
     <loc>https://weekinmemes.com/tags/ashwin/</loc>
     <lastmod>2020-02-16T22:40:52-06:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -1175,27 +1058,23 @@
   </url>
   
   <url>
-    <loc>https://weekinmemes.com/tags/kxipvrr/</loc>
+    <loc>https://weekinmemes.com/tags/kings-xi-punjab/</loc>
     <lastmod>2020-02-16T22:40:52-06:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://weekinmemes.com/tags/kings-xi-punjab/</loc>
+    <loc>https://weekinmemes.com/tags/kxipvrr/</loc>
     <lastmod>2020-02-16T22:40:52-06:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://weekinmemes.com/tags/mankad/</loc>
     <lastmod>2020-02-16T22:40:52-06:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://weekinmemes.com/tags/rajasthan-royals/</loc>
     <lastmod>2020-02-16T22:40:52-06:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -1221,7 +1100,6 @@
   <url>
     <loc>https://weekinmemes.com/tags/akash-ambani/</loc>
     <lastmod>2020-02-16T22:40:52-06:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -1232,25 +1110,21 @@
   <url>
     <loc>https://weekinmemes.com/tags/mukesh-ambani/</loc>
     <lastmod>2020-02-16T22:40:52-06:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://weekinmemes.com/tags/reliance/</loc>
     <lastmod>2020-02-16T22:40:52-06:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://weekinmemes.com/tags/shloka-mehta/</loc>
     <lastmod>2020-02-16T22:40:52-06:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://weekinmemes.com/tags/sundar-pichai/</loc>
     <lastmod>2020-02-16T22:40:52-06:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -1261,7 +1135,6 @@
   <url>
     <loc>https://weekinmemes.com/tags/sasural-simar-ka/</loc>
     <lastmod>2020-02-16T22:40:52-06:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -1272,19 +1145,16 @@
   <url>
     <loc>https://weekinmemes.com/tags/soap-opera/</loc>
     <lastmod>2020-02-16T22:40:52-06:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://weekinmemes.com/tags/tv/</loc>
     <lastmod>2020-02-16T22:40:52-06:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://weekinmemes.com/tags/nehru/</loc>
     <lastmod>2020-02-16T22:40:52-06:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -1295,7 +1165,6 @@
   <url>
     <loc>https://weekinmemes.com/tags/rafale/</loc>
     <lastmod>2020-02-16T22:40:52-06:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -1306,25 +1175,21 @@
   <url>
     <loc>https://weekinmemes.com/tags/amazon-prime/</loc>
     <lastmod>2020-02-16T22:40:52-06:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://weekinmemes.com/tags/the-end/</loc>
     <lastmod>2020-02-16T22:40:52-06:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://weekinmemes.com/tags/twinkle-khanna/</loc>
     <lastmod>2020-02-16T22:40:52-06:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://weekinmemes.com/tags/abhinandan-varthaman/</loc>
     <lastmod>2020-02-16T22:40:52-06:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -1335,7 +1200,6 @@
   <url>
     <loc>https://weekinmemes.com/tags/gd-bakshi/</loc>
     <lastmod>2020-02-16T22:40:52-06:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -1351,25 +1215,21 @@
   <url>
     <loc>https://weekinmemes.com/tags/surgical-strikes/</loc>
     <lastmod>2020-02-16T22:40:52-06:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://weekinmemes.com/tags/uri/</loc>
     <lastmod>2020-02-16T22:40:52-06:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://weekinmemes.com/tags/vicky-kaushal/</loc>
     <lastmod>2020-02-16T22:40:52-06:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://weekinmemes.com/tags/malhari/</loc>
     <lastmod>2020-02-16T22:40:52-06:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -1380,25 +1240,21 @@
   <url>
     <loc>https://weekinmemes.com/tags/balakot/</loc>
     <lastmod>2020-02-16T22:40:52-06:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://weekinmemes.com/tags/donald-trump/</loc>
     <lastmod>2020-02-16T22:40:52-06:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://weekinmemes.com/tags/iaf/</loc>
     <lastmod>2020-02-16T22:40:52-06:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://weekinmemes.com/tags/josh/</loc>
     <lastmod>2020-02-16T22:40:52-06:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -1414,13 +1270,11 @@
   <url>
     <loc>https://weekinmemes.com/tags/manikarnika/</loc>
     <lastmod>2020-02-16T22:40:52-06:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://weekinmemes.com/tags/rajinikanth/</loc>
     <lastmod>2020-02-16T22:40:52-06:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -1436,19 +1290,16 @@
   <url>
     <loc>https://weekinmemes.com/tags/kesari/</loc>
     <lastmod>2020-02-16T22:40:52-06:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://weekinmemes.com/tags/parineeti-chopra/</loc>
     <lastmod>2020-02-16T22:40:52-06:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://weekinmemes.com/tags/mumbai-police/</loc>
     <lastmod>2020-02-16T22:40:52-06:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -1469,7 +1320,6 @@
   <url>
     <loc>https://weekinmemes.com/tags/gully-boy/</loc>
     <lastmod>2020-02-16T22:40:52-06:00</lastmod>
-    <priority>0</priority>
   </url>
   
 </urlset>

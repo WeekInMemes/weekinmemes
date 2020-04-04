@@ -26,7 +26,6 @@ This led to an onslaught of trolling targeted at Kangana.
 
 Check out some of the popular memes on the topic:
 
-{{< tweet 1098522118982172673 >}}
 
 One user pointed out how she had claimed she had fallen ill after riding a horse
 

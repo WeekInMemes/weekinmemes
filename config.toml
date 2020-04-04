@@ -32,3 +32,6 @@ enableRSS = true
 tag = "tags"
 
 [paginator]
+
+[markup.goldmark.renderer]
+unsafe= true
