@@ -39,7 +39,9 @@ It was also picked up by ETimes and posted on instagram
 
 Kangana's sister, however was not amused.
 
-{{< tweet 1098529298850476032 >}}
+tweet 1098529298850476032
+
+Her Twitter account has since been suspended.
 
 
 ---

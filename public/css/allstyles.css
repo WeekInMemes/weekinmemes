@@ -50,6 +50,11 @@ p {
     padding: 0;
 }
 
+center {
+  margin-bottom: 20px;
+}
+
+
 blockquote {
     margin: 30px;
 		font-style: italic;
@@ -1495,3 +1500,4 @@ transform: rotate(360deg);
   opacity: 0.85 !important;
   color:#ffffff !important;
 }
+
