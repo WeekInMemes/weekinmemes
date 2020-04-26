@@ -6,7 +6,6 @@ description = ""
 featuredImage = "img/rohit-sharma-catch/rohit-sharma-catch-002.png"
 draft = true
 showthedate = true
-hidden = true
 +++
 
 Yo! I'm back with another edition of week in memes. While I haven't sent out many emails recently, I *have* written more articles. The website has also gone through a major redesign with a new home page, a search feature a new way to support the site. Check out the [support page](support)

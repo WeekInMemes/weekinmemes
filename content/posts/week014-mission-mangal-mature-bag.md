@@ -6,7 +6,6 @@ description = ""
 featuredImage = "img/templates/mature-bag.jpg"
 draft = true
 showthedate = true
-hidden = true
 +++
 
 With the World Cup, behind us, it's been a slow week. So slow that a random TikTok video about a bag went viral.

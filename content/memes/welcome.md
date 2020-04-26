@@ -47,6 +47,9 @@ The movie and its dialogues continue to inspire memes such as this when Mukesh A
 ![Uday Shetty (Nana Patekar) in Welcome: Seh Lenge Thoda](img/templates/welcome-seh-lenge-thoda.jpg)
 <center>Seh Lenge Thoda</center>
 
+![Uday Shetty (Nana Patekar) in Welcome: Control, Uday! Control](img/templates/welcome-control-uday.jpg)
+<center>Control, Uday! Control</center>
+
 ![Uday Shetty (Nana Patekar) in Welcome: Aree Kab Tak Teri Galtiyon Ka Tokra Main Apne Sar Par Ghoomata Rahunga](img/templates/welcome-galtiyon-ka-tokra.jpg)
 <center>Aree Kab Tak Teri Galtiyon Ka Tokra Main Apne Sar Par Ghoomata Rahunga</center>
 

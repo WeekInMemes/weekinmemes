@@ -6,7 +6,6 @@ description = ""
 featuredImage = "img/templates/sarfaraz-yawn.jpg"
 draft = true
 showthedate = true
-hidden = true
 +++
 
 The ICC Cricket World Cup is in full swing and has given some great meme material so far... thanks in large part to the most inconsistent team (as usual) Pakistan.
