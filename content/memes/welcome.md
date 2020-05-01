@@ -53,6 +53,7 @@ The movie and its dialogues continue to inspire memes such as this when Mukesh A
 ![Uday Shetty (Nana Patekar) in Welcome: Aree Kab Tak Teri Galtiyon Ka Tokra Main Apne Sar Par Ghoomata Rahunga](img/templates/welcome-galtiyon-ka-tokra.jpg)
 <center>Aree Kab Tak Teri Galtiyon Ka Tokra Main Apne Sar Par Ghoomata Rahunga</center>
 
+For other Akshay Kumar movie memes, check out [Akshay Kumar Scheme memes](memes/akshay-kumar-scheme)
 
 ## Memes
 

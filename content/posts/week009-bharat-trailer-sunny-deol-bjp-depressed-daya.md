@@ -32,8 +32,7 @@ Check out the details on this meme template and similar posts on the [Bharat Tra
 
 Sunny Deol was Akshay Kumar before Akshay Kumar became Akshay Kumar i.e. the de facto action hero nationalist of Bollywood. So when he joined BJP, his scenes and dialogues from movies like Gadar and Border resurfaced as memes. Like this famous handpump scene from Gadar where he goes ballistic on a crowd of Pakistanis which is now known as:
 
-{{< tweet 1120578344871849984 >}}
-
+< tweet 1120578344871849984 has since been deleted >
 
 Check out the details on this meme template and similar posts on the [Sunny Deol BJP memes](memes/sunny-deol-bjp#memes) page
 

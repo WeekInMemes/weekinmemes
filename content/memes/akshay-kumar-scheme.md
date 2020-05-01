@@ -51,6 +51,8 @@ The group was created on May 22, 2019 and as of June 12, 2019, the group has 47,
 <center>Kya Maal Hai Yaar</center>
 
 
+For memes from the movie, Welcome, check out the [Welcome Memes](memes/welcome) page.
+
 ## Memes
 
 Check out some of the popular memes on the topic:
