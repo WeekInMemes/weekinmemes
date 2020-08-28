@@ -22,7 +22,7 @@ That's all they had to say instead of making an entire trailer and everyone woul
 
 But since they went ahead and added some other dialogues, Katrina Kaif had the best one in the trailer which led to memes like this:
 
-{{< tweet 1120253694422016000 >}}
+_Tweet has since been deleted_
 
 Check out the details on this meme template and similar posts on the [Bharat Trailer memes](memes/bharat-trailer#memes) page
 

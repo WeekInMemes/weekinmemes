@@ -42,7 +42,7 @@ Smriti Irani shared this meme on her instagram summarizing Abhinandan's stay in 
 
 India's first Prime Minister Jawaharlal Nehru is to be blamed for everything that goes wrong in the country. Everyone knows that. So when the government "lost" files related to Rafale scam he was the obvious culprit. The fact that he has been dead for 50 years is inconsequential. Classic black and white memes surfaced as a result. Like this one:
 
-{{< tweet 1103260036372013057 >}}
+_Tweet has since been deleted_
 
 Check out the details on this meme template and similar posts on the [Nehru steals Rafale files memes](memes/nehru-rafale#memes) page
 

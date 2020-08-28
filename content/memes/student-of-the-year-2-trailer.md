@@ -18,7 +18,7 @@ Watch the trailer here:
 
 Twitter users noticed that Tiger Shroff is seen flying more than ... Modiji?
 
-{{< tweet 1116605956714971136 >}}
+_Tweet has since been deleted_
 
 Here is a thread of all instances of Tiger Shroff in the air in the Student of The Year 2 trailer
 

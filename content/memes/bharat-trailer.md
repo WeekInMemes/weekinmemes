@@ -19,7 +19,7 @@ Watch the trailer here:
 
 Katrina Kaif's line "Itne bhaari gyaan ki zaroorat blikul nahi hai" (*translation: No need for such advanced knowledge*) become the basis for a meme template.
 
-{{< tweet 1120253694422016000 >}}
+_Tweet has since been deleted_
 
 ## Template
 

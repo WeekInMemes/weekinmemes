@@ -32,8 +32,6 @@ He originally appeared in a viral video saying "Ye mera basta hai" (*Translation
 
 Check out some of the popular memes on the topic:
 
-{{< instagram BwJqv_qpAix >}}
-
 {{< instagram BwGk5nvHY33 >}}
 
 {{< instagram BwJf9YnAyy3 >}}
