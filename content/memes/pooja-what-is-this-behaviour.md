@@ -56,6 +56,27 @@ Go watch the entire thread. I have no words to describe it. There seems to be a 
 ![Pooja What Is This Behaviour](img/templates/pooja-what-is-this-behaviour.png)
 <center>Pooja What Is This Behaviour</center>
 
+
+## Merchandise
+
+Like what you see? Would you like to buy a "Pooja what is this behaviour" sticker or a t-shirt perhaps? Check out our store: https://www.redbubble.com/shop/ap/58709651
+
+
+[![Pin](img/merchandise/pooja-what-is-this-behaviour-pin.jpg)](https://www.redbubble.com/i/pin/Pooja-What-Is-This-Behaviour-by-weekinmemes/58709651.NP9QY)
+
+<br/>
+
+[![T-Shirt](img/merchandise/pooja-what-is-this-behaviour-tshirt.jpg)](https://www.redbubble.com/i/t-shirt/Pooja-What-Is-This-Behaviour-by-weekinmemes/58709651.IJ6L0)
+
+<br/>
+
+[![Print](img/merchandise/pooja-what-is-this-behaviour-print.jpg)](https://www.redbubble.com/i/canvas-print/Pooja-What-Is-This-Behaviour-by-weekinmemes/58709651.5Y5V7)
+
+
+
+
+
+
 ### Script
 
 ```
