@@ -19,6 +19,9 @@
         {{ if .Site.Params.youtube }}
         <li><a target="_blank" href="https://youtube.com/channel/{{ .Site.Params.youtube }}"><i class="fa fa-youtube"></i></a></li>
         {{end}}
+        {{ if .Site.Params.redbubble }}
+            <li><a target="_blank" href="https://www.redbubble.com/people/{{ .Site.Params.redbubble }}/shop"><i class="fa fa-store"></i></a></li>
+        {{ end }}
         {{ if .Site.Params.pinterest }}
         <li><a target="_blank" href="https://pinterest.com/{{ .Site.Params.pinterest }}/"><i class="fa fa-pinterest"></i></a></li>
         {{end}}
