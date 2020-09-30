@@ -18,11 +18,9 @@ The easiest way to support is via tips in Basic Action Token (BAT), a cryptocurr
 You can download the browser using my referral link: https://brave.com/wee460 I get $5 worth of BAT for each referral. You get BAT everytime you use the browser and watch an ad. This is available in India! You can use the BAT you earn to tip publishers you like (like WeekInMemes :wink:)
 
 
-## Sweatcoin referral
+## Buy Merchandise
 
-Get paid to walk. This app pays you in a cryptocurrency called "Sweatcoin". 1000 steps = 1 sweatcoin. There isn't an official exchange to convert sweatcoin to fiat currency (like dollars or rupees) but will be available soon! 
-
-To show your support you can download the Sweatcoin app using my referral link: https://sweatco.in/hi/weekinmemes I get 5 sweatcoins per referral.
+Now you can buy merchandise from the [WeekInMemes Store On RedBubble](https://www.redbubble.com/people/weekinmemes/shop). T-shirts, hoodies, stickers, posters and more. More designs coming soon!
 
 ---
 
