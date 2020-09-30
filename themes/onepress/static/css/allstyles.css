@@ -246,6 +246,7 @@ nav ul li a:hover {
 .shop-nav {
 	background-color: #fc0fc0;
 	padding: 5px 5px;
+	color: #ffffff;
 }
 
 @media (max-width:768px) {
