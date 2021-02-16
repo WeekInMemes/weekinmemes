@@ -32,10 +32,6 @@ Also if my child does not do this, they're probably not my child:
 
 {{< tweet 1121253676927148039 >}}
 
-And um whatever is going on here:
-
-{{< tweet 1120676499705569280 >}}
-
 
 Using Pooja what is this behavior as a pickup line? Bold move, Cotton.
 

@@ -26,7 +26,8 @@ Check out the details on this meme template and similar posts on the [How's The 
 
 Twitter user [@mad_liberals](https://twitter.com/mad_liberals/) shared a video of Donald Trump's face morphed onto Ranveer Singh's in the video Malhari, from Bajirao Mastani.
 
-{{< tweet 1098364052047306754 >}}
+< Tweet has since been deleted >
+
 
 This tweet has been retweeted 6k+ times
 

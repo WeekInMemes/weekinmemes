@@ -27,7 +27,7 @@ First there were memes on people watching JCB dig
 
 A twitter user tried to explain that it's because of how many people view youtube videos of JCB digging.
 
-{{< tweet 1132988620699078656 >}}
+< Tweet has since been deleted >
 
 
 This is the first video in the tweet above and it really has 4million+ views:

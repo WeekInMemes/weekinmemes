@@ -38,8 +38,6 @@ Check out some of the popular memes on the topic:
 
 {{< tweet 1102975046535053312 >}}
 
-{{< tweet 1103008387594215425 >}}
-
 
 {{< load-photoswipe >}}
 {{< gallery dir="img/akshay-kumar-fire-stunt" />}}

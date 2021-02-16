@@ -41,7 +41,6 @@ Check out some of the popular memes on the topic:
 
 <blockquote class="reddit-card" data-card-created="1551271386"><a href="https://www.reddit.com/r/drunk/comments/71gzc1/when_you_get_to_the_bar_and_your_friends_are/">When you get to the bar and your friends are already there</a> from <a href="http://www.reddit.com/r/drunk">r/drunk</a></blockquote>
 
-<center> {{< tweet 1098364052047306754 >}} </center>
 
 ---
 \- DK

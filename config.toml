@@ -28,6 +28,10 @@ email = "dk@weekinmemes.com"
 subscribeLink = "subscribe"
 enableRSS = true
 
+[params.instagramoembed]
+appId = "754686758815876"
+clientToken = "41e62275edfeec273074de64deeb9711"
+
 
 [taxonomies]
 tag = "tags"
