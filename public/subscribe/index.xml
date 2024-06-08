@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Subscribe on Week In Memes - What&#39;s Going Viral in India?</title>
-    <link>https://weekinmemes.com/subscribe/</link>
+    <link>https://weekinmemes.netlify.app/subscribe/</link>
     <description>Recent content in Subscribe on Week In Memes - What&#39;s Going Viral in India?</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 22 Mar 2019 18:01:04 -0500</lastBuildDate><atom:link href="https://weekinmemes.com/subscribe/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 22 Mar 2019 18:01:04 -0500</lastBuildDate><atom:link href="https://weekinmemes.netlify.app/subscribe/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
