@@ -1,4 +1,4 @@
-baseURL = "https://weekinmemes.com"
+baseURL = "https://weekinmemes.netlify.app"
 languageCode = "en-us"
 title = "Week In Memes - What's Going Viral in India?"
 
@@ -28,9 +28,10 @@ email = "dk@weekinmemes.com"
 subscribeLink = "subscribe"
 enableRSS = true
 
-[params.instagramoembed]
-appId = "754686758815876"
-clientToken = "41e62275edfeec273074de64deeb9711"
+[services.instagram]
+# appId = "754686758815876"
+# clientToken = "52d217f906b402e3ab7114c6e0321019"
+accessToken = "754686758815876|52d217f906b402e3ab7114c6e0321019"
 
 
 [taxonomies]

@@ -23,8 +23,7 @@ Netflix which is usually on top of the meme game started the celebration with th
 
 Pankaj Tripathi's dialogue "Balidan Dena Hoga" *(translation: Sacrifices must be made)* was picked up by a lot of Twitter users. This crossover with the classic iPhone price joke though ...
 
-{{< tweet 1148487544218226688 >}}
-
+< Tweet has since been deleted >
 
 ## Templates
 

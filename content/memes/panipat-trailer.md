@@ -23,7 +23,7 @@ The trailer for the movie based on the battle of Panipat between Marathas and Af
 
 Even Amit Shah made it to the memes
 
-{{< twitter 1192036613871718401 >}}
+< Tweet has since been deleted >
 
 ## Template
 

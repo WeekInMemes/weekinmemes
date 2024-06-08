@@ -1,6 +1,3 @@
-# Redirect default Netlify subdomain to primary domain
-https://weekinmemes.netlify.com/* https://weekinmemes.com/:splat 301!
-
 # Wrong weekly post names
 
 /posts/week001 /posts/week001-kesari-trailer-rajinikanth-kangana/ 301!
